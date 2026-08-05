@@ -208,11 +208,6 @@
   </tr>
 </table>
 
-### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f331.svg" width="20" height="20" alt="seedling" align="top"> Currently
-
-- Deepening **retrieval quality** for RAG — reranking, chunking strategies, and evaluation
-- Exploring **agentic** LLM workflows and tool use
-
 <p align="center">
   <i>Open to collaboration on applied AI/ML — reach out via LinkedIn or email above.</i>
 </p>
