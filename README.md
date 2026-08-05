@@ -41,7 +41,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Aditya20030420?style=for-the-badge&logo=github&color=1F6FEB&labelColor=161B22" alt="Followers">
-  <img src="https://komarev.com/ghpvc/?username=Aditya20030420&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 <p align="center">📍 Ghaziabad, India</p>
