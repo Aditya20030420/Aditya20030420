@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm Aditya Ganjoo 👋</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/hero.png" alt="Aditya Ganjoo — AI / ML Engineer · RAG Systems · Document Intelligence · Financial ML" width="100%">
+</p>
 
 <p align="center">
-  <b>AI / ML Engineer · NLP & Applied LLMs · Financial ML</b>
-</p>
-<p align="center">
-  I build <b>RAG systems</b>, <b>document-intelligence pipelines</b>, and <b>federated-learning models</b> — turning messy real-world data into grounded, useful answers.
+  👋 I build <b>RAG systems</b>, <b>document-intelligence pipelines</b>, and <b>federated-learning models</b> — turning messy real-world data into grounded, useful answers.
 </p>
 
 <p align="center">
@@ -12,6 +11,7 @@
   <a href="mailto:aditya.ganjoo03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://img.shields.io/github/followers/Aditya20030420?style=for-the-badge&logo=github&color=1F6FEB&labelColor=161B22" alt="Followers">
   <img src="https://img.shields.io/badge/Ghaziabad,%20India-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-8B5CF6?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Opportunities">
 </p>
 
 ---
