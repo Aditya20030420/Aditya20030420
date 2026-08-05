@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  👋 I build <b>RAG systems</b>, <b>document-intelligence pipelines</b>, and <b>federated-learning models</b> — turning messy real-world data into grounded, useful answers.
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f44b.svg" width="20" height="20" alt="wave" align="top"> I build <b>RAG systems</b>, <b>document-intelligence pipelines</b>, and <b>federated-learning models</b> — turning messy real-world data into grounded, useful answers.
 </p>
 
 <p align="center">
@@ -16,30 +16,30 @@
 
 ---
 
-### 🚀 What I build
+### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f680.svg" width="20" height="20" alt="rocket" align="top"> What I build
 
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <br>🧠<br><b>RAG &amp; LLM Apps</b><br><br>
+      <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9e0.svg" width="20" height="20" alt="brain" align="top"><br><b>RAG &amp; LLM Apps</b><br><br>
       <sub>Hybrid semantic + keyword retrieval with grounded, citation-backed answers.</sub><br><br>
     </td>
     <td width="33%" align="center" valign="top">
-      <br>📄<br><b>Document Intelligence</b><br><br>
+      <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4c4.svg" width="20" height="20" alt="document" align="top"><br><b>Document Intelligence</b><br><br>
       <sub>OCR-enabled extraction pipelines that parse real-world, scanned PDFs.</sub><br><br>
     </td>
     <td width="33%" align="center" valign="top">
-      <br>📈<br><b>Financial ML</b><br><br>
+      <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4c8.svg" width="20" height="20" alt="chart up" align="top"><br><b>Financial ML</b><br><br>
       <sub>Federated-learning &amp; time-series models for cross-border risk.</sub><br><br>
     </td>
   </tr>
 </table>
 
-### 🧰 Tech Stack
+### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9f0.svg" width="20" height="20" alt="toolbox" align="top"> Tech Stack
 
 <table>
   <tr>
-    <td><b>🧑‍💻&nbsp; Languages</b></td>
+    <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9d1-200d-1f4bb.svg" width="20" height="20" alt="developer" align="top">&nbsp; Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -47,7 +47,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>🤖&nbsp; AI / ML</b></td>
+    <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f916.svg" width="20" height="20" alt="robot" align="top">&nbsp; AI / ML</b></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
@@ -56,7 +56,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>🌐&nbsp; Web &amp; Apps</b></td>
+    <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f310.svg" width="20" height="20" alt="web" align="top">&nbsp; Web &amp; Apps</b></td>
     <td>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
@@ -68,7 +68,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>🗄️&nbsp; Data &amp; Tooling</b></td>
+    <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f5c4.svg" width="20" height="20" alt="database" align="top">&nbsp; Data &amp; Tooling</b></td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
@@ -79,12 +79,12 @@
   </tr>
 </table>
 
-### 📌 Featured Projects
+### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4cc.svg" width="20" height="20" alt="pin" align="top"> Featured Projects
 
 <table width="100%">
 <tr><td>
-<h4>⚖️&nbsp; TemporalLaw-AI &nbsp;—&nbsp; Time-Aware Legal Assistant</h4>
-<p><a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance">📦 Repository</a> &nbsp;·&nbsp; <a href="https://temporallaw-ai.streamlit.app/">▶️ Live demo</a></p>
+<h4><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/2696.svg" width="20" height="20" alt="scales" align="top">&nbsp; TemporalLaw-AI &nbsp;—&nbsp; Time-Aware Legal Assistant</h4>
+<p><a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4e6.svg" width="20" height="20" alt="repository" align="top"> Repository</a> &nbsp;·&nbsp; <a href="https://temporallaw-ai.streamlit.app/"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/25b6.svg" width="20" height="20" alt="play" align="top"> Live demo</a></p>
 <p>RAG-based legal research assistant for Indian criminal law. Uses a <b>hybrid retriever</b> — <b>ChromaDB / MiniLM</b> semantic search combined with <b>BM25</b> keyword retrieval (α-weighted, α=0.7) — plus <b>SerpAPI</b> for real-time judicial rulings (Indian Kanoon, LiveLaw) and temporal <b>IPC → BNS</b> law-change detection by date. Includes a 5-metric evaluation pipeline (correctness, temporal accuracy, citation validity, hallucination rate) and a <b>Streamlit</b> UI.</p>
 <p>
   <img src="https://img.shields.io/badge/-RAG-1F6FEB?style=flat-square" alt="RAG">
@@ -99,8 +99,8 @@
     <td align="center"><a href="https://temporallaw-ai.streamlit.app/"><img src="https://raw.githubusercontent.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance/main/docs/screenshot.png" alt="TemporalLaw-AI — dark mode" width="380"></a></td>
   </tr>
   <tr>
-    <td align="center"><sub>☀️ Light mode</sub></td>
-    <td align="center"><sub>🌙 Dark mode</sub></td>
+    <td align="center"><sub><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/2600.svg" width="20" height="20" alt="sun" align="top"> Light mode</sub></td>
+    <td align="center"><sub><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f319.svg" width="20" height="20" alt="moon" align="top"> Dark mode</sub></td>
   </tr>
 </table>
 </td></tr>
@@ -108,8 +108,8 @@
 
 <table width="100%">
 <tr><td>
-<h4>🌍&nbsp; Federated Learning &nbsp;—&nbsp; Cross-Border Financial Risk</h4>
-<p><a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment">📦 Repository</a> &nbsp;·&nbsp; <a href="https://cross-border-financial-risk.onrender.com">▶️ Live demo</a></p>
+<h4><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f30d.svg" width="20" height="20" alt="globe" align="top">&nbsp; Federated Learning &nbsp;—&nbsp; Cross-Border Financial Risk</h4>
+<p><a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4e6.svg" width="20" height="20" alt="repository" align="top"> Repository</a> &nbsp;·&nbsp; <a href="https://cross-border-financial-risk.onrender.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/25b6.svg" width="20" height="20" alt="play" align="top"> Live demo</a></p>
 <p>Privacy-preserving financial-risk model using <b>Federated Learning</b> and <b>BiLSTM</b> across data from <b>7+ countries</b>. Integrates macroeconomic, geopolitical (GPR), and market data; models dynamic volatility with <b>GARCH(1,1)</b>; and applies <b>Differential Privacy</b> for secure aggregation under non-IID data — GDPR/CCPA-aligned.</p>
 <p>
   <img src="https://img.shields.io/badge/-PyTorch-1F6FEB?style=flat-square" alt="PyTorch">
@@ -122,8 +122,8 @@
     <td align="center"><a href="https://cross-border-financial-risk.onrender.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fl-results.png" alt="Results — predicted risk by country and global model metrics" width="380"></a></td>
   </tr>
   <tr>
-    <td align="center"><sub>📈 Interactive prediction</sub></td>
-    <td align="center"><sub>📊 Results & metrics</sub></td>
+    <td align="center"><sub><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4c8.svg" width="20" height="20" alt="chart up" align="top"> Interactive prediction</sub></td>
+    <td align="center"><sub><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4ca.svg" width="20" height="20" alt="bar chart" align="top"> Results & metrics</sub></td>
   </tr>
 </table>
 </td></tr>
@@ -131,8 +131,8 @@
 
 <table width="100%">
 <tr><td>
-<h4>💳&nbsp; Credit Card Parser &nbsp;—&nbsp; Statement → Structured Data</h4>
-<p><a href="https://github.com/Aditya20030420/credit_card_parser">📦 Repository</a> &nbsp;·&nbsp; <a href="https://credit-card-parser-5nd9.onrender.com">▶️ Live demo</a></p>
+<h4><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4b3.svg" width="20" height="20" alt="card" align="top">&nbsp; Credit Card Parser &nbsp;—&nbsp; Statement → Structured Data</h4>
+<p><a href="https://github.com/Aditya20030420/credit_card_parser"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4e6.svg" width="20" height="20" alt="repository" align="top"> Repository</a> &nbsp;·&nbsp; <a href="https://credit-card-parser-5nd9.onrender.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/25b6.svg" width="20" height="20" alt="play" align="top"> Live demo</a></p>
 <p>Full-stack <b>Flask</b> app for automated extraction of financial data from multi-bank PDF statements. Uses regex-based issuer identification and <b>Tesseract OCR</b> to handle both text-based and scanned formats, with secure file workflows, JSON export, and a drag-and-drop UI. Supports major Indian issuers (<b>SBI, HDFC, ICICI, Axis, Amex</b>).</p>
 <p>
   <img src="https://img.shields.io/badge/-Flask-1F6FEB?style=flat-square" alt="Flask">
@@ -145,14 +145,14 @@
     <td align="center"><a href="https://credit-card-parser-5nd9.onrender.com"><img src="https://raw.githubusercontent.com/Aditya20030420/credit_card_parser/main/docs/app-home-dark.png" alt="Credit Card Parser — dark mode" width="380"></a></td>
   </tr>
   <tr>
-    <td align="center"><sub>☀️ Light mode</sub></td>
-    <td align="center"><sub>🌙 Dark mode</sub></td>
+    <td align="center"><sub><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/2600.svg" width="20" height="20" alt="sun" align="top"> Light mode</sub></td>
+    <td align="center"><sub><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f319.svg" width="20" height="20" alt="moon" align="top"> Dark mode</sub></td>
   </tr>
 </table>
 </td></tr>
 </table>
 
-### 🌱 Currently
+### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f331.svg" width="20" height="20" alt="seedling" align="top"> Currently
 
 - Deepening **retrieval quality** for RAG — reranking, chunking strategies, and evaluation
 - Exploring **agentic** LLM workflows and tool use
