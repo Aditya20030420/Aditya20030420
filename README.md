@@ -62,10 +62,8 @@ RAG-based legal research assistant for Indian criminal law. Uses a **hybrid retr
 <br>![RAG](https://img.shields.io/badge/-RAG-1F6FEB?style=flat-square) ![Hybrid Retrieval](https://img.shields.io/badge/-Hybrid%20Retrieval-1F6FEB?style=flat-square) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-1F6FEB?style=flat-square) ![BM25](https://img.shields.io/badge/-BM25-1F6FEB?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-1F6FEB?style=flat-square)
 
 <a href="https://temporallaw-ai.streamlit.app/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance/main/docs/screenshot.png">
-    <img src="https://raw.githubusercontent.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance/main/docs/screenshot-light.png" alt="TemporalLaw-AI legal research assistant" width="520">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance/main/docs/screenshot-light.png" alt="TemporalLaw-AI — light mode" width="415">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance/main/docs/screenshot.png" alt="TemporalLaw-AI — dark mode" width="415">
 </a>
 
 #### 🌍 [Federated Learning — Cross-Border Financial Risk](https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment)
@@ -82,10 +80,8 @@ Full-stack **Flask** app for automated extraction of financial data from multi-b
 <br>![Flask](https://img.shields.io/badge/-Flask-1F6FEB?style=flat-square) ![Tesseract OCR](https://img.shields.io/badge/-Tesseract%20OCR-1F6FEB?style=flat-square) ![Document AI](https://img.shields.io/badge/-Document%20AI-1F6FEB?style=flat-square)
 
 <a href="https://credit-card-parser-5nd9.onrender.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya20030420/credit_card_parser/main/docs/app-home-dark.png">
-    <img src="https://raw.githubusercontent.com/Aditya20030420/credit_card_parser/main/docs/app-home-light.png" alt="Credit Card Parser web app" width="520">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Aditya20030420/credit_card_parser/main/docs/app-home-light.png" alt="Credit Card Parser — light mode" width="415">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/credit_card_parser/main/docs/app-home-dark.png" alt="Credit Card Parser — dark mode" width="415">
 </a>
 
 ### 🌱 Currently
