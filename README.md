@@ -58,8 +58,12 @@
 ### 📌 Featured Projects
 
 #### ⚖️ [TemporalLaw-AI](https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance)
-RAG-based legal research assistant for Indian criminal law. Uses a **hybrid retriever** — **ChromaDB / MiniLM** semantic search combined with **BM25** keyword retrieval (α-weighted, α=0.7) — plus **SerpAPI** for real-time judicial rulings (Indian Kanoon, LiveLaw) and temporal **IPC → BNS** law-change detection by date. Includes a 5-metric evaluation pipeline (correctness, temporal accuracy, citation validity, hallucination rate) and a **Streamlit** UI.
+RAG-based legal research assistant for Indian criminal law. Uses a **hybrid retriever** — **ChromaDB / MiniLM** semantic search combined with **BM25** keyword retrieval (α-weighted, α=0.7) — plus **SerpAPI** for real-time judicial rulings (Indian Kanoon, LiveLaw) and temporal **IPC → BNS** law-change detection by date. Includes a 5-metric evaluation pipeline (correctness, temporal accuracy, citation validity, hallucination rate) and a **Streamlit** UI. **[▶ Live demo](https://temporallaw-ai.streamlit.app/)**
 <br>![RAG](https://img.shields.io/badge/-RAG-1F6FEB?style=flat-square) ![Hybrid Retrieval](https://img.shields.io/badge/-Hybrid%20Retrieval-1F6FEB?style=flat-square) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-1F6FEB?style=flat-square) ![BM25](https://img.shields.io/badge/-BM25-1F6FEB?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-1F6FEB?style=flat-square)
+
+<a href="https://temporallaw-ai.streamlit.app/">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance/main/docs/screenshot.png" alt="TemporalLaw-AI legal research assistant" width="520">
+</a>
 
 #### 🌍 [Federated Learning — Cross-Border Financial Risk](https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment)
 Privacy-preserving financial-risk model using **Federated Learning** and **BiLSTM** across data from **7+ countries**. Integrates macroeconomic, geopolitical (GPR), and market data; models dynamic volatility with **GARCH(1,1)**; and applies **Differential Privacy** for secure aggregation under non-IID data — GDPR/CCPA-aligned. **[▶ Live demo](https://cross-border-financial-risk.onrender.com)**
@@ -70,8 +74,12 @@ Privacy-preserving financial-risk model using **Federated Learning** and **BiLST
 </a>
 
 #### 💳 [Credit Card Parser](https://github.com/Aditya20030420/credit_card_parser)
-Full-stack **Flask** app for automated extraction of financial data from multi-bank PDF statements. Uses regex-based issuer identification and **Tesseract OCR** to handle both text-based and scanned formats, with secure file workflows, JSON export, and a drag-and-drop UI. Supports major Indian issuers (**SBI, HDFC, ICICI, Axis, Amex**).
+Full-stack **Flask** app for automated extraction of financial data from multi-bank PDF statements. Uses regex-based issuer identification and **Tesseract OCR** to handle both text-based and scanned formats, with secure file workflows, JSON export, and a drag-and-drop UI. Supports major Indian issuers (**SBI, HDFC, ICICI, Axis, Amex**). **[▶ Live demo](https://credit-card-parser-5nd9.onrender.com)**
 <br>![Flask](https://img.shields.io/badge/-Flask-1F6FEB?style=flat-square) ![Tesseract OCR](https://img.shields.io/badge/-Tesseract%20OCR-1F6FEB?style=flat-square) ![Document AI](https://img.shields.io/badge/-Document%20AI-1F6FEB?style=flat-square)
+
+<a href="https://credit-card-parser-5nd9.onrender.com">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/credit_card_parser/main/docs/app-home-dark.png" alt="Credit Card Parser web app" width="520">
+</a>
 
 ### 🌱 Currently
 
