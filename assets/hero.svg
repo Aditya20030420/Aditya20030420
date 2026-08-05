@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Aditya Ganjoo — AI / ML Engineer">
+  <defs>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55"/>
+    </filter>
+    <clipPath id="clip"><rect width="1200" height="330" rx="0"/></clipPath>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes drift1 { 0%{transform:translate(0px,0px)} 50%{transform:translate(70px,34px)} 100%{transform:translate(0px,0px)} }
+    @keyframes drift2 { 0%{transform:translate(0px,0px)} 50%{transform:translate(-60px,-30px)} 100%{transform:translate(0px,0px)} }
+    @keyframes pulse  { 0%,100%{opacity:.55} 50%{opacity:.9} }
+    @keyframes rise   { 0%{opacity:0; transform:translateY(0)} 12%{opacity:1} 90%{opacity:.5} 100%{opacity:0; transform:translateY(-300px)} }
+    @keyframes sweep  { 0%{transform:translateX(-1200px)} 100%{transform:translateX(1200px)} }
+    .b1{animation:drift1 16s ease-in-out infinite, pulse 9s ease-in-out infinite;}
+    .b2{animation:drift2 20s ease-in-out infinite, pulse 11s ease-in-out infinite;}
+    .sheen{animation:sweep 9s linear infinite;}
+    text{font-family:'Segoe UI',Helvetica,Arial,sans-serif;}
+  </style>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="330" fill="#0d1117"/>
+    <!-- animated glow blobs -->
+    <g filter="url(#blur)">
+      <circle class="b1" cx="1000" cy="55"  r="150" fill="#5b21b6"/>
+      <circle class="b2" cx="150"  cy="300" r="140" fill="#0e5a6e"/>
+      <circle class="b1" cx="820"  cy="280" r="90"  fill="#4c1d95"/>
+    </g>
+    <!-- rising particles -->
+    <circle cx="703" cy="340" r="1.7" fill="#a78bfa" opacity="0" style="animation: rise 8.97s ease-in 7.58s infinite;"/>
+    <circle cx="788" cy="340" r="2.0" fill="#7dd3fc" opacity="0" style="animation: rise 11.55s ease-in 4.66s infinite;"/>
+    <circle cx="183" cy="340" r="1.7" fill="#a78bfa" opacity="0" style="animation: rise 9.76s ease-in 1.93s infinite;"/>
+    <circle cx="166" cy="340" r="3.4" fill="#a78bfa" opacity="0" style="animation: rise 8.98s ease-in 4.62s infinite;"/>
+    <circle cx="633" cy="340" r="2.6" fill="#c4b5fd" opacity="0" style="animation: rise 9.7s ease-in 3.35s infinite;"/>
+    <circle cx="410" cy="340" r="1.9" fill="#c4b5fd" opacity="0" style="animation: rise 9.86s ease-in 0.82s infinite;"/>
+    <circle cx="168" cy="340" r="2.5" fill="#7dd3fc" opacity="0" style="animation: rise 10.1s ease-in 4.51s infinite;"/>
+    <circle cx="993" cy="340" r="2.1" fill="#c4b5fd" opacity="0" style="animation: rise 9.27s ease-in 4.68s infinite;"/>
+    <circle cx="539" cy="340" r="2.5" fill="#7dd3fc" opacity="0" style="animation: rise 8.5s ease-in 0.65s infinite;"/>
+    <circle cx="629" cy="340" r="2.5" fill="#7dd3fc" opacity="0" style="animation: rise 7.37s ease-in 4.87s infinite;"/>
+    <circle cx="351" cy="340" r="3.3" fill="#c4b5fd" opacity="0" style="animation: rise 9.11s ease-in 7.47s infinite;"/>
+    <circle cx="682" cy="340" r="2.5" fill="#a78bfa" opacity="0" style="animation: rise 8.75s ease-in 2.72s infinite;"/>
+    <circle cx="231" cy="340" r="2.8" fill="#c4b5fd" opacity="0" style="animation: rise 9.37s ease-in 7.56s infinite;"/>
+    <circle cx="674" cy="340" r="3.1" fill="#7dd3fc" opacity="0" style="animation: rise 11.97s ease-in 5.18s infinite;"/>
+    <circle cx="750" cy="340" r="1.9" fill="#a78bfa" opacity="0" style="animation: rise 9.31s ease-in 0.18s infinite;"/>
+    <circle cx="486" cy="340" r="2.0" fill="#7dd3fc" opacity="0" style="animation: rise 7.65s ease-in 6.15s infinite;"/>
+    <circle cx="205" cy="340" r="2.1" fill="#7dd3fc" opacity="0" style="animation: rise 9.01s ease-in 1.33s infinite;"/>
+    <circle cx="610" cy="340" r="2.8" fill="#a78bfa" opacity="0" style="animation: rise 11.93s ease-in 5.65s infinite;"/>
+    <!-- moving sheen -->
+    <rect class="sheen" width="1200" height="330" fill="url(#sheen)"/>
+
+    <!-- static text -->
+    <text x="600" y="150" text-anchor="middle" font-size="86" font-weight="700" fill="#f0f6fc" letter-spacing="1">Aditya Ganjoo</text>
+    <rect x="525" y="178" width="150" height="5" rx="2.5" fill="#8b5cf6"/>
+    <text x="600" y="230" text-anchor="middle" font-size="34" font-weight="300" fill="#b19cf7">AI / ML Engineer</text>
+    <text x="600" y="272" text-anchor="middle" font-size="21" fill="#8b939e">RAG Systems&#160;&#160;·&#160;&#160;Document Intelligence&#160;&#160;·&#160;&#160;Financial ML</text>
+  </g>
+</svg>
