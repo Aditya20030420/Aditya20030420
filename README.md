@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f44b.svg" width="20" height="20" alt="wave" align="top"> I turn messy, real-world data into grounded answers — building <b>RAG systems</b>, <b>document-intelligence pipelines</b>, and <b>federated-learning models</b>.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/aditya-ganjoo-703234228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:aditya.ganjoo03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Ghaziabad,%20India-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
