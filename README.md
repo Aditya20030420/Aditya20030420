@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/hero.svg" alt="Aditya Ganjoo — AI / ML Engineer · RAG Systems · Document Intelligence · Financial ML" width="100%">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/hero.svg?v=2" alt="Aditya Ganjoo — Aspiring AI / ML Engineer · RAG Systems · Document Intelligence · Financial ML" width="100%">
 </p>
 
 <p align="center">
@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/github/followers/Aditya20030420?style=for-the-badge&logo=github&color=1F6FEB&labelColor=161B22" alt="Followers">
   <img src="https://img.shields.io/badge/Ghaziabad,%20India-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-8B5CF6?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Opportunities">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f393.svg" width="18" height="18" alt="graduation cap" align="top">&nbsp; <b>B.Tech Computer Science (Data Science)</b> &nbsp;·&nbsp; DJ Sanghvi College of Engineering, Mumbai &nbsp;·&nbsp; Class of 2026
 </p>
 
 ---

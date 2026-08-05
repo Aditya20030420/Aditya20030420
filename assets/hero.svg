@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Aditya Ganjoo — AI / ML Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Aditya Ganjoo — Aspiring AI / ML Engineer">
   <defs>
     <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="55"/>
@@ -56,7 +56,7 @@
     <!-- static text -->
     <text x="600" y="150" text-anchor="middle" font-size="86" font-weight="700" fill="#f0f6fc" letter-spacing="1">Aditya Ganjoo</text>
     <rect x="525" y="178" width="150" height="5" rx="2.5" fill="#8b5cf6"/>
-    <text x="600" y="230" text-anchor="middle" font-size="34" font-weight="300" fill="#b19cf7">AI / ML Engineer</text>
+    <text x="600" y="230" text-anchor="middle" font-size="34" font-weight="300" fill="#b19cf7">Aspiring AI / ML Engineer</text>
     <text x="600" y="272" text-anchor="middle" font-size="21" fill="#8b939e">RAG Systems&#160;&#160;·&#160;&#160;Document Intelligence&#160;&#160;·&#160;&#160;Financial ML</text>
   </g>
 </svg>
