@@ -61,6 +61,10 @@ Time-aware legal RAG assistant for Indian criminal law (**IPC → BNS**). Hybrid
 Federated-learning-style **BiLSTM** for cross-border financial risk, combining macro indicators, geopolitical-risk data, and GARCH volatility. **[▶ Live demo](https://cross-border-financial-risk.onrender.com)**
 <br>![PyTorch](https://img.shields.io/badge/-PyTorch-1F6FEB?style=flat-square) ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-1F6FEB?style=flat-square) ![Time Series](https://img.shields.io/badge/-Time%20Series-1F6FEB?style=flat-square)
 
+<a href="https://cross-border-financial-risk.onrender.com">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment/main/hf_space/docs/app_screenshot.png" alt="Cross-Border Financial Risk web app" width="520">
+</a>
+
 #### 💳 [Credit Card Parser](https://github.com/Aditya20030420/credit_card_parser)
 Flask app that extracts key fields (card, billing, balance, transactions) from **Indian & US** credit-card and bank-statement PDFs — **OCR-enabled** for scanned files.
 <br>![Flask](https://img.shields.io/badge/-Flask-1F6FEB?style=flat-square) ![OCR](https://img.shields.io/badge/-OCR-1F6FEB?style=flat-square) ![Document AI](https://img.shields.io/badge/-Document%20AI-1F6FEB?style=flat-square)
