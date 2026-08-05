@@ -3,15 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f44b.svg" width="20" height="20" alt="wave" align="top"> I build <b>RAG systems</b>, <b>document-intelligence pipelines</b>, and <b>federated-learning models</b> — turning messy real-world data into grounded, useful answers.
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f44b.svg" width="20" height="20" alt="wave" align="top"> I turn messy, real-world data into grounded answers — building <b>RAG systems</b>, <b>document-intelligence pipelines</b>, and <b>federated-learning models</b>.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-ganjoo-703234228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:aditya.ganjoo03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/github/followers/Aditya20030420?style=for-the-badge&logo=github&color=1F6FEB&labelColor=161B22" alt="Followers">
-  <img src="https://img.shields.io/badge/Ghaziabad,%20India-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-8B5CF6?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Opportunities">
+  <a href="https://www.linkedin.com/in/aditya-ganjoo-703234228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:aditya.ganjoo03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Ghaziabad,%20India-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20Open%20to%20Full--time%20%26%20Internships-8B5CF6?style=for-the-badge" alt="Open to Full-time & Internships">
 </p>
 
 <p align="center">
