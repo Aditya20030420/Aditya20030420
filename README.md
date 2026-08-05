@@ -189,7 +189,13 @@
     <th align="left">Date</th>
   </tr>
   <tr>
-    <td><b>Python for Data Science &amp; AI</b></td>
+    <td>
+      <b>Python for Data Science &amp; AI</b><br>
+      <img src="https://img.shields.io/badge/-Python-30363D?style=flat-square" alt="Python">
+      <img src="https://img.shields.io/badge/-Pandas-30363D?style=flat-square" alt="Pandas">
+      <img src="https://img.shields.io/badge/-NumPy-30363D?style=flat-square" alt="NumPy">
+      <img src="https://img.shields.io/badge/-Data%20Analysis-30363D?style=flat-square" alt="Data Analysis">
+    </td>
     <td>
       <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM">
       <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera">
@@ -197,17 +203,36 @@
     <td>Jul 2025</td>
   </tr>
   <tr>
-    <td><b>Cloud Architecture</b></td>
+    <td>
+      <b>Cloud Architecture</b><br>
+      <img src="https://img.shields.io/badge/-AWS-30363D?style=flat-square" alt="AWS">
+      <img src="https://img.shields.io/badge/-EC2-30363D?style=flat-square" alt="EC2">
+      <img src="https://img.shields.io/badge/-S3-30363D?style=flat-square" alt="S3">
+      <img src="https://img.shields.io/badge/-IAM-30363D?style=flat-square" alt="IAM">
+      <img src="https://img.shields.io/badge/-VPC-30363D?style=flat-square" alt="VPC">
+    </td>
     <td><img src="https://img.shields.io/badge/AWS%20Academy-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS Academy"></td>
     <td>Apr 2025</td>
   </tr>
   <tr>
-    <td><b>Data Engineering</b></td>
+    <td>
+      <b>Data Engineering</b><br>
+      <img src="https://img.shields.io/badge/-ETL-30363D?style=flat-square" alt="ETL">
+      <img src="https://img.shields.io/badge/-Data%20Pipelines-30363D?style=flat-square" alt="Data Pipelines">
+      <img src="https://img.shields.io/badge/-S3-30363D?style=flat-square" alt="S3">
+      <img src="https://img.shields.io/badge/-Analytics-30363D?style=flat-square" alt="Analytics">
+    </td>
     <td><img src="https://img.shields.io/badge/AWS%20Academy-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS Academy"></td>
     <td>Nov 2024</td>
   </tr>
   <tr>
-    <td><b>Full-Stack Web Development</b></td>
+    <td>
+      <b>Full-Stack Web Development</b><br>
+      <img src="https://img.shields.io/badge/-HTML-30363D?style=flat-square" alt="HTML">
+      <img src="https://img.shields.io/badge/-CSS-30363D?style=flat-square" alt="CSS">
+      <img src="https://img.shields.io/badge/-JavaScript-30363D?style=flat-square" alt="JavaScript">
+      <img src="https://img.shields.io/badge/-REST%20APIs-30363D?style=flat-square" alt="REST APIs">
+    </td>
     <td><img src="https://img.shields.io/badge/Dexterity%20Edtech-6E5494?style=flat-square" alt="Dexterity Edtech"></td>
     <td>Jun 2023</td>
   </tr>
