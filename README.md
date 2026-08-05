@@ -180,6 +180,8 @@
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4dc.svg" width="20" height="20" alt="certificate" align="top"> Certifications
 
+<table width="100%">
+<tr><td>
 <table>
   <tr>
     <th align="left">Certification</th>
@@ -188,24 +190,29 @@
   </tr>
   <tr>
     <td><b>Python for Data Science &amp; AI</b></td>
-    <td>Coursera — IBM</td>
+    <td>
+      <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM">
+      <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera">
+    </td>
     <td>Jul 2025</td>
   </tr>
   <tr>
     <td><b>Cloud Architecture</b></td>
-    <td>AWS Academy</td>
+    <td><img src="https://img.shields.io/badge/AWS%20Academy-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS Academy"></td>
     <td>Apr 2025</td>
   </tr>
   <tr>
     <td><b>Data Engineering</b></td>
-    <td>AWS Academy</td>
+    <td><img src="https://img.shields.io/badge/AWS%20Academy-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS Academy"></td>
     <td>Nov 2024</td>
   </tr>
   <tr>
     <td><b>Full-Stack Web Development</b></td>
-    <td>Dexterity Edtech</td>
+    <td><img src="https://img.shields.io/badge/Dexterity%20Edtech-6E5494?style=flat-square" alt="Dexterity Edtech"></td>
     <td>Jun 2023</td>
   </tr>
+</table>
+</td></tr>
 </table>
 
 <p align="center">
