@@ -32,8 +32,8 @@
 
 **AI / ML**
 &nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -41,32 +41,38 @@
 **Web & Apps**
 &nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**Tooling**
+**Data & Tooling**
 &nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FCA326?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 ### 📌 Featured Projects
 
 #### ⚖️ [TemporalLaw-AI](https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance)
-Time-aware legal RAG assistant for Indian criminal law (**IPC → BNS**). Hybrid **semantic + BM25** retrieval with temporal filtering, producing grounded, citation-backed answers.
-<br>![RAG](https://img.shields.io/badge/-RAG-1F6FEB?style=flat-square) ![LLMs](https://img.shields.io/badge/-LLMs-1F6FEB?style=flat-square) ![NLP](https://img.shields.io/badge/-NLP-1F6FEB?style=flat-square)
+RAG-based legal research assistant for Indian criminal law. Combines **ChromaDB** vector search with a custom **TF-IDF** retrieval engine, uses **SerpAPI** for real-time judicial rulings (Indian Kanoon, LiveLaw), and detects temporal **IPC → BNS** law changes by date. Includes a 5-metric evaluation pipeline (correctness, temporal accuracy, citation validity, hallucination rate) and a **Streamlit** UI.
+<br>![RAG](https://img.shields.io/badge/-RAG-1F6FEB?style=flat-square) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-1F6FEB?style=flat-square) ![Ollama](https://img.shields.io/badge/-Ollama-1F6FEB?style=flat-square) ![Streamlit](https://img.shields.io/badge/-Streamlit-1F6FEB?style=flat-square)
 
 #### 🌍 [Federated Learning — Cross-Border Financial Risk](https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment)
-Federated-learning-style **BiLSTM** for cross-border financial risk, combining macro indicators, geopolitical-risk data, and GARCH volatility. **[▶ Live demo](https://cross-border-financial-risk.onrender.com)**
-<br>![PyTorch](https://img.shields.io/badge/-PyTorch-1F6FEB?style=flat-square) ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-1F6FEB?style=flat-square) ![Time Series](https://img.shields.io/badge/-Time%20Series-1F6FEB?style=flat-square)
+Privacy-preserving financial-risk model using **Federated Learning** and **BiLSTM** across data from **7+ countries**. Integrates macroeconomic, geopolitical (GPR), and market data; models dynamic volatility with **GARCH(1,1)**; and applies **Differential Privacy** for secure aggregation under non-IID data — GDPR/CCPA-aligned. **[▶ Live demo](https://cross-border-financial-risk.onrender.com)**
+<br>![TensorFlow](https://img.shields.io/badge/-TensorFlow-1F6FEB?style=flat-square) ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-1F6FEB?style=flat-square) ![Differential Privacy](https://img.shields.io/badge/-Differential%20Privacy-1F6FEB?style=flat-square)
 
 <a href="https://cross-border-financial-risk.onrender.com">
   <img src="https://raw.githubusercontent.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment/main/hf_space/docs/app_screenshot.png" alt="Cross-Border Financial Risk web app" width="520">
 </a>
 
 #### 💳 [Credit Card Parser](https://github.com/Aditya20030420/credit_card_parser)
-Flask app that extracts key fields (card, billing, balance, transactions) from **Indian & US** credit-card and bank-statement PDFs — **OCR-enabled** for scanned files.
-<br>![Flask](https://img.shields.io/badge/-Flask-1F6FEB?style=flat-square) ![OCR](https://img.shields.io/badge/-OCR-1F6FEB?style=flat-square) ![Document AI](https://img.shields.io/badge/-Document%20AI-1F6FEB?style=flat-square)
+Full-stack **Flask** app for automated extraction of financial data from multi-bank PDF statements. Uses regex-based issuer identification and **Tesseract OCR** to handle both text-based and scanned formats, with secure file workflows, JSON export, and a drag-and-drop UI. Supports major Indian issuers (**SBI, HDFC, ICICI, Axis, Amex**).
+<br>![Flask](https://img.shields.io/badge/-Flask-1F6FEB?style=flat-square) ![Tesseract OCR](https://img.shields.io/badge/-Tesseract%20OCR-1F6FEB?style=flat-square) ![Document AI](https://img.shields.io/badge/-Document%20AI-1F6FEB?style=flat-square)
 
 ### 🌱 Currently
 
