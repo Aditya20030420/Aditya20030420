@@ -156,6 +156,58 @@
 </td></tr>
 </table>
 
+### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4bc.svg" width="20" height="20" alt="briefcase" align="top"> Experience
+
+<table width="100%">
+<tr><td>
+<h4>Web Development Trainee &nbsp;—&nbsp; Cognoscente Invnted Pvt. Ltd.</h4>
+<p><i>Internship &nbsp;·&nbsp; Remote (Delhi) &nbsp;·&nbsp; Jun 2024 – Jul 2024</i></p>
+<ul>
+  <li>Built a <b>role-based task-tracking web app</b> with distinct access levels for employees, managers, and senior management — including an employee-onboarding registration module.</li>
+  <li>Developed and integrated <b>Flask</b> APIs with <b>MySQL</b> and <b>MongoDB</b> to improve data-management efficiency.</li>
+  <li>Built responsive pages in <b>HTML / CSS / JavaScript</b> to design specs and ensured cross-browser compatibility.</li>
+</ul>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+</td></tr>
+</table>
+
+### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4dc.svg" width="20" height="20" alt="certificate" align="top"> Certifications
+
+<table>
+  <tr>
+    <th align="left">Certification</th>
+    <th align="left">Issuer</th>
+    <th align="left">Date</th>
+  </tr>
+  <tr>
+    <td><b>Python for Data Science &amp; AI</b></td>
+    <td>Coursera — IBM</td>
+    <td>Jul 2025</td>
+  </tr>
+  <tr>
+    <td><b>Cloud Architecture</b></td>
+    <td>AWS Academy</td>
+    <td>Apr 2025</td>
+  </tr>
+  <tr>
+    <td><b>Data Engineering</b></td>
+    <td>AWS Academy</td>
+    <td>Nov 2024</td>
+  </tr>
+  <tr>
+    <td><b>Full-Stack Web Development</b></td>
+    <td>Dexterity Edtech</td>
+    <td>Jun 2023</td>
+  </tr>
+</table>
+
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f331.svg" width="20" height="20" alt="seedling" align="top"> Currently
 
 - Deepening **retrieval quality** for RAG — reranking, chunking strategies, and evaluation
