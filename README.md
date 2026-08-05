@@ -73,7 +73,8 @@ Privacy-preserving financial-risk model using **Federated Learning** and **BiLST
 <br>![PyTorch](https://img.shields.io/badge/-PyTorch-1F6FEB?style=flat-square) ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-1F6FEB?style=flat-square) ![Differential Privacy](https://img.shields.io/badge/-Differential%20Privacy-1F6FEB?style=flat-square)
 
 <a href="https://cross-border-financial-risk.onrender.com">
-  <img src="https://raw.githubusercontent.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment/main/hf_space/docs/app_screenshot.png" alt="Cross-Border Financial Risk web app" width="520">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fl-predict.png" alt="Interactive prediction — India risk trajectory" width="415">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fl-results.png" alt="Results — predicted risk by country and global model metrics" width="415">
 </a>
 
 #### 💳 [Credit Card Parser](https://github.com/Aditya20030420/credit_card_parser)
