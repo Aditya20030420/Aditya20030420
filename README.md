@@ -32,8 +32,7 @@
 
 **AI / ML**
 &nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -64,7 +63,7 @@ RAG-based legal research assistant for Indian criminal law. Combines **ChromaDB*
 
 #### 🌍 [Federated Learning — Cross-Border Financial Risk](https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment)
 Privacy-preserving financial-risk model using **Federated Learning** and **BiLSTM** across data from **7+ countries**. Integrates macroeconomic, geopolitical (GPR), and market data; models dynamic volatility with **GARCH(1,1)**; and applies **Differential Privacy** for secure aggregation under non-IID data — GDPR/CCPA-aligned. **[▶ Live demo](https://cross-border-financial-risk.onrender.com)**
-<br>![TensorFlow](https://img.shields.io/badge/-TensorFlow-1F6FEB?style=flat-square) ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-1F6FEB?style=flat-square) ![Differential Privacy](https://img.shields.io/badge/-Differential%20Privacy-1F6FEB?style=flat-square)
+<br>![PyTorch](https://img.shields.io/badge/-PyTorch-1F6FEB?style=flat-square) ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-1F6FEB?style=flat-square) ![Differential Privacy](https://img.shields.io/badge/-Differential%20Privacy-1F6FEB?style=flat-square)
 
 <a href="https://cross-border-financial-risk.onrender.com">
   <img src="https://raw.githubusercontent.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment/main/hf_space/docs/app_screenshot.png" alt="Cross-Border Financial Risk web app" width="520">
