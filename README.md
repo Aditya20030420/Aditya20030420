@@ -37,11 +37,11 @@
 | **[Credit Card Parser](https://github.com/Aditya20030420/credit_card_parser)** | Flask app that extracts key fields (card, billing, balance, transactions) from Indian & US statement PDFs — OCR-enabled for scanned files | Flask · OCR |
 | **[Federated Learning Risk Assessment](https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment)** | Federated-learning-style BiLSTM for cross-border financial risk, with a live interactive web app | PyTorch · Gradio |
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya20030420&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya20030420&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://img.shields.io/github/followers/Aditya20030420?style=for-the-badge&logo=github&color=1F6FEB&labelColor=161B22" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=Aditya20030420&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 <p align="center">📍 Ghaziabad, India</p>
