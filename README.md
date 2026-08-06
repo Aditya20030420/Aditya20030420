@@ -21,16 +21,28 @@
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
-      <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9e0.svg" width="20" height="20" alt="brain" align="top"><br><b>RAG &amp; LLM Apps</b><br><br>
+      <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9e0.svg" width="30" height="30" alt="brain"><br><br><b>RAG &amp; LLM Apps</b><br><br>
       <sub>Hybrid semantic + keyword retrieval with grounded, citation-backed answers.</sub><br><br>
+      <img src="https://img.shields.io/badge/-RAG-1F6FEB?style=flat-square" alt="RAG">
+      <img src="https://img.shields.io/badge/-ChromaDB-1F6FEB?style=flat-square" alt="ChromaDB">
+      <img src="https://img.shields.io/badge/-BM25-1F6FEB?style=flat-square" alt="BM25"><br><br>
+      <a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance"><sub>&#8594; TemporalLaw-AI</sub></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4c4.svg" width="20" height="20" alt="document" align="top"><br><b>Document Intelligence</b><br><br>
+      <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4c4.svg" width="30" height="30" alt="document"><br><br><b>Document Intelligence</b><br><br>
       <sub>OCR-enabled extraction pipelines that parse real-world, scanned PDFs.</sub><br><br>
+      <img src="https://img.shields.io/badge/-Tesseract%20OCR-1F6FEB?style=flat-square" alt="Tesseract OCR">
+      <img src="https://img.shields.io/badge/-Flask-1F6FEB?style=flat-square" alt="Flask">
+      <img src="https://img.shields.io/badge/-Regex-1F6FEB?style=flat-square" alt="Regex"><br><br>
+      <a href="https://github.com/Aditya20030420/credit_card_parser"><sub>&#8594; Credit Card Parser</sub></a>
     </td>
     <td width="33%" align="center" valign="top">
-      <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4c8.svg" width="20" height="20" alt="chart up" align="top"><br><b>Financial ML</b><br><br>
+      <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4c8.svg" width="30" height="30" alt="chart up"><br><br><b>Financial ML</b><br><br>
       <sub>Federated-learning &amp; time-series models for cross-border risk.</sub><br><br>
+      <img src="https://img.shields.io/badge/-PyTorch-1F6FEB?style=flat-square" alt="PyTorch">
+      <img src="https://img.shields.io/badge/-BiLSTM-1F6FEB?style=flat-square" alt="BiLSTM">
+      <img src="https://img.shields.io/badge/-GARCH-1F6FEB?style=flat-square" alt="GARCH"><br><br>
+      <a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment"><sub>&#8594; Federated Learning</sub></a>
     </td>
   </tr>
 </table>
@@ -50,9 +62,19 @@
     <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f916.svg" width="20" height="20" alt="robot" align="top">&nbsp; AI / ML</b></td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9e0.svg" width="20" height="20" alt="brain" align="top">&nbsp; LLM / RAG Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+      <img src="https://img.shields.io/badge/ChromaDB-FCA326?style=flat-square&logo=chromadb&logoColor=white">
+      <img src="https://img.shields.io/badge/Tesseract%20OCR-2F9599?style=flat-square">
+      <img src="https://img.shields.io/badge/SerpAPI-2E9BDA?style=flat-square">
     </td>
   </tr>
   <tr>
@@ -68,13 +90,12 @@
     </td>
   </tr>
   <tr>
-    <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f5c4.svg" width="20" height="20" alt="database" align="top">&nbsp; Data &amp; Tooling</b></td>
+    <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f5c4.svg" width="20" height="20" alt="database" align="top">&nbsp; Databases &amp; Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/ChromaDB-FCA326?style=flat-square&logo=chromadb&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
     </td>
   </tr>
 </table>
