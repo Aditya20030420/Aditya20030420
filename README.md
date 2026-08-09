@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/-RAG-1F6FEB?style=flat-square" alt="RAG">
       <img src="https://img.shields.io/badge/-ChromaDB-1F6FEB?style=flat-square" alt="ChromaDB">
       <img src="https://img.shields.io/badge/-BM25-1F6FEB?style=flat-square" alt="BM25"><br><br>
-      <a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance"><sub>&#8594; TemporalLaw-AI</sub></a>
+      <a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance"><img src="https://img.shields.io/badge/TemporalLaw--AI-View%20Project%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB" alt="TemporalLaw-AI — View Project"></a>
     </td>
     <td width="33%" align="center" valign="top">
       <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4c4.svg" width="30" height="30" alt="document"><br><br><b>Document Intelligence</b><br><br>
@@ -34,7 +34,7 @@
       <img src="https://img.shields.io/badge/-Tesseract%20OCR-1F6FEB?style=flat-square" alt="Tesseract OCR">
       <img src="https://img.shields.io/badge/-Flask-1F6FEB?style=flat-square" alt="Flask">
       <img src="https://img.shields.io/badge/-Regex-1F6FEB?style=flat-square" alt="Regex"><br><br>
-      <a href="https://github.com/Aditya20030420/credit_card_parser"><sub>&#8594; Credit Card Parser</sub></a>
+      <a href="https://github.com/Aditya20030420/credit_card_parser"><img src="https://img.shields.io/badge/Credit%20Card%20Parser-View%20Project%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB" alt="Credit Card Parser — View Project"></a>
     </td>
     <td width="33%" align="center" valign="top">
       <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4c8.svg" width="30" height="30" alt="chart up"><br><br><b>Financial ML</b><br><br>
@@ -42,7 +42,7 @@
       <img src="https://img.shields.io/badge/-PyTorch-1F6FEB?style=flat-square" alt="PyTorch">
       <img src="https://img.shields.io/badge/-BiLSTM-1F6FEB?style=flat-square" alt="BiLSTM">
       <img src="https://img.shields.io/badge/-GARCH-1F6FEB?style=flat-square" alt="GARCH"><br><br>
-      <a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment"><sub>&#8594; Federated Learning</sub></a>
+      <a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment"><img src="https://img.shields.io/badge/Federated%20Learning-View%20Project%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB" alt="Federated Learning — View Project"></a>
     </td>
   </tr>
 </table>
