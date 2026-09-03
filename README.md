@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/profile-bar.svg?v=1" alt="Open to Full-time &amp; Internships · Ghaziabad, India · B.Tech Computer Science (Data Science), DJ Sanghvi College of Engineering, Mumbai · Class of 2026" width="100%">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/profile-bar.svg?v=2" alt="Open to Full-time &amp; Internships · Ghaziabad, India · B.Tech Computer Science (Data Science), DJ Sanghvi College of Engineering, Mumbai · Class of 2026" width="100%">
 </p>
 
 <p align="center">
