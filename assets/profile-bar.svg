@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 184" width="860" height="184" fill="none" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+  <linearGradient id="pbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1620"/><stop offset="1" stop-color="#0b1017"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#8B5CF6"/><stop offset="0.5" stop-color="#2EA44F"/><stop offset="1" stop-color="#1F6FEB"/>
+  </linearGradient>
+  <linearGradient id="pscan" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="pclip"><rect x="1" y="1" width="858" height="182" rx="14"/></clipPath>
+  <style>
+    text{fill:#e6edf3}
+    .big{font-size:15px;font-weight:700}
+    .pill{font-size:13px;font-weight:700;fill:#fff}
+    .edu{font-size:13.5px;font-weight:600}
+    .ping{transform-box:fill-box;transform-origin:center;animation:ping 2.2s ease-out infinite}
+    @keyframes ping{0%{transform:scale(1);opacity:.7}70%,100%{transform:scale(3.4);opacity:0}}
+    .dot{animation:dpulse 2.2s ease-in-out infinite}
+    @keyframes dpulse{0%,100%{opacity:.8}50%{opacity:1}}
+    .psweep{animation:psweep 6.5s ease-in-out infinite}
+    @keyframes psweep{0%{transform:translateX(-360px)}55%,100%{transform:translateX(560px)}}
+    .shimmer{stroke-dasharray:120 740;animation:sh 4s linear infinite}
+    @keyframes sh{to{stroke-dashoffset:-860}}
+    .badge{transform-box:fill-box;transform-origin:center;animation:float 3.4s ease-in-out infinite}
+    .b2{animation-delay:.3s}.b3{animation-delay:.6s}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-2.2px)}}
+  </style>
+</defs>
+
+<rect x="1" y="1" width="858" height="182" rx="14" fill="url(#pbg)" stroke="#233041"/>
+<g clip-path="url(#pclip)"><rect class="psweep" x="0" y="0" width="150" height="184" fill="url(#pscan)"/></g>
+
+<!-- ===== contact badges ===== -->
+<!-- LinkedIn -->
+<g transform="translate(236,22)"><g class="badge">
+  <rect width="118" height="32" rx="8" fill="#0A66C2"/>
+  <rect x="12" y="9" width="14" height="14" rx="3" fill="#fff"/>
+  <text x="19" y="20" font-size="10" font-weight="800" fill="#0A66C2" text-anchor="middle">in</text>
+  <text class="pill" x="36" y="21">LinkedIn</text>
+</g></g>
+<!-- Email -->
+<g transform="translate(362,22)"><g class="badge b2">
+  <rect width="96" height="32" rx="8" fill="#D14836"/>
+  <rect x="12" y="10" width="16" height="12" rx="2" fill="none" stroke="#fff" stroke-width="1.6"/>
+  <path d="M12 11 l8 6 l8 -6" fill="none" stroke="#fff" stroke-width="1.6"/>
+  <text class="pill" x="36" y="21">Email</text>
+</g></g>
+<!-- Certifications -->
+<g transform="translate(466,22)"><g class="badge b3">
+  <rect width="158" height="32" rx="8" fill="#FF6B00"/>
+  <circle cx="20" cy="14" r="6" fill="none" stroke="#fff" stroke-width="1.6"/>
+  <path d="M17 19 l-2 6 l5 -3 l5 3 l-2 -6" fill="none" stroke="#fff" stroke-width="1.6" stroke-linejoin="round"/>
+  <text class="pill" x="36" y="21">Certifications</text>
+</g></g>
+
+<!-- ===== availability + location ===== -->
+<g transform="translate(150,92)">
+  <circle class="ping" cx="0" cy="0" r="6" fill="#2EA44F"/>
+  <circle class="dot" cx="0" cy="0" r="6" fill="#2EA44F"/>
+  <circle cx="0" cy="0" r="2.4" fill="#d4ffe0"/>
+</g>
+<text class="big" x="168" y="97">Open to Full-time &amp; Internships</text>
+
+<g transform="translate(560,84)">
+  <path d="M12 2 C6 2 2 6.4 2 12 C2 19 12 27 12 27 C12 27 22 19 22 12 C22 6.4 18 2 12 2 Z" fill="none" stroke="#2EA44F" stroke-width="1.8"/>
+  <circle cx="12" cy="12" r="3.6" fill="#2EA44F"/>
+</g>
+<text class="big" x="590" y="97">Ghaziabad, India</text>
+
+<!-- divider -->
+<line x1="30" y1="122" x2="830" y2="122" stroke="#1c2733"/>
+<line class="shimmer" x1="30" y1="122" x2="830" y2="122" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
+
+<!-- ===== education ===== -->
+<g transform="translate(150,140)">
+  <path d="M14 2 L27 8 L14 14 L1 8 Z" fill="none" stroke="#58A6FF" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M6 10 v6 c0 2 16 2 16 0 v-6" fill="none" stroke="#58A6FF" stroke-width="1.6"/>
+  <line x1="27" y1="8" x2="27" y2="15" stroke="#58A6FF" stroke-width="1.6"/>
+</g>
+<text class="edu" x="188" y="153" text-anchor="start">B.Tech Computer Science (Data Science)  ·  DJ Sanghvi College of Engineering, Mumbai  ·  Class of 2026</text>
+</svg>

@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-ganjoo-703234228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"></a>
-  <a href="mailto:aditya.ganjoo03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.credly.com/users/aditya-ganjoo.0a06f7ef"><img src="https://img.shields.io/badge/Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly certifications"></a>
-  <img src="https://img.shields.io/badge/Ghaziabad,%20India-2EA44F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/%E2%9C%A6%20Open%20to%20Full--time%20%26%20Internships-8B5CF6?style=for-the-badge" alt="Open to Full-time & Internships">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/profile-bar.svg?v=1" alt="Open to Full-time &amp; Internships · Ghaziabad, India · B.Tech Computer Science (Data Science), DJ Sanghvi College of Engineering, Mumbai · Class of 2026" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f393.svg" width="18" height="18" alt="graduation cap" align="top">&nbsp; <b>B.Tech Computer Science (Data Science)</b> &nbsp;·&nbsp; DJ Sanghvi College of Engineering, Mumbai &nbsp;·&nbsp; Class of 2026
+  <a href="https://www.linkedin.com/in/aditya-ganjoo-703234228/"><b>LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:aditya.ganjoo03@gmail.com"><b>Email</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.credly.com/users/aditya-ganjoo.0a06f7ef"><b>Certifications</b></a>
 </p>
 
 ---
