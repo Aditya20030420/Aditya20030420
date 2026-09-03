@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 148" width="860" height="148" fill="none" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 126" width="860" height="126" fill="none" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
 <defs>
   <linearGradient id="pbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1620"/><stop offset="1" stop-color="#0b1017"/></linearGradient>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
@@ -10,7 +10,7 @@
   <radialGradient id="rTop" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#4763b0" stop-opacity="0.35"/><stop offset="1" stop-color="#4763b0" stop-opacity="0"/></radialGradient>
   <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5"/></filter>
   <filter id="barglow" x="-10%" y="-500%" width="120%" height="1100%"><feGaussianBlur stdDeviation="3"/></filter>
-  <clipPath id="pclip"><rect x="1" y="1" width="858" height="146" rx="15"/></clipPath>
+  <clipPath id="pclip"><rect x="1" y="1" width="858" height="124" rx="15"/></clipPath>
   <style>
     text{fill:#e6edf3}
     .big{font-size:15px;font-weight:700}
@@ -34,30 +34,30 @@
   </style>
 </defs>
 
-<rect x="1" y="1" width="858" height="146" rx="15" fill="url(#pbg)" stroke="#233041"/>
+<rect x="1" y="1" width="858" height="124" rx="15" fill="url(#pbg)" stroke="#233041"/>
 <g clip-path="url(#pclip)">
-  <ellipse class="tglow" cx="430" cy="4" rx="400" ry="70" fill="url(#rTop)"/>
-  <rect class="psweep" x="0" y="0" width="150" height="148" fill="url(#pscan)"/>
+  <ellipse class="tglow" cx="430" cy="4" rx="400" ry="62" fill="url(#rTop)"/>
+  <rect class="psweep" x="0" y="0" width="150" height="126" fill="url(#pscan)"/>
   <rect x="1" y="1" width="858" height="3.5" fill="url(#accent)" filter="url(#barglow)"/>
   <rect x="1" y="1" width="858" height="3.5" fill="url(#accent)"/>
 </g>
 
 <!-- ===== contact badges (row 1) ===== -->
-<g transform="translate(230,18)"><g class="badge">
+<g transform="translate(230,14)"><g class="badge">
   <rect class="gl" x="4" y="6" width="110" height="26" rx="9" fill="#0A66C2" filter="url(#glow)"/>
   <rect width="118" height="32" rx="9" fill="#0A66C2"/>
   <rect x="13" y="8" width="16" height="16" rx="3" fill="#fff"/>
   <text x="21" y="20" font-size="11" font-weight="800" fill="#0A66C2" text-anchor="middle" font-family="Georgia,serif">in</text>
   <text class="pill" x="38" y="21">LinkedIn</text>
 </g></g>
-<g transform="translate(362,18)"><g class="badge b2">
+<g transform="translate(362,14)"><g class="badge b2">
   <rect class="gl" x="4" y="6" width="88" height="26" rx="9" fill="#D14836" filter="url(#glow)"/>
   <rect width="96" height="32" rx="9" fill="#D14836"/>
   <rect x="14" y="11" width="18" height="12" rx="2.5" fill="none" stroke="#fff" stroke-width="1.7"/>
   <path d="M14.5 12 l8.5 6 l8.5 -6" fill="none" stroke="#fff" stroke-width="1.7"/>
   <text class="pill" x="40" y="21">Email</text>
 </g></g>
-<g transform="translate(472,18)"><g class="badge b3">
+<g transform="translate(472,14)"><g class="badge b3">
   <rect class="gl" x="4" y="6" width="150" height="26" rx="9" fill="#FF6B00" filter="url(#glow)"/>
   <rect width="158" height="32" rx="9" fill="#FF6B00"/>
   <circle cx="22" cy="14" r="6.5" fill="none" stroke="#fff" stroke-width="1.7"/>
@@ -66,29 +66,29 @@
 </g></g>
 
 <!-- ===== availability + location (row 2) ===== -->
-<g transform="translate(58,74)">
+<g transform="translate(58,60)">
   <circle class="ping" cx="0" cy="0" r="6" fill="#2EA44F"/>
   <circle class="dot" cx="0" cy="0" r="6" fill="#2EA44F"/>
   <circle cx="0" cy="0" r="2.4" fill="#d4ffe0"/>
 </g>
-<text class="big" x="76" y="79">Open to Full-time &amp; Internships</text>
+<text class="big" x="76" y="65">Open to Full-time &amp; Internships</text>
 
-<g transform="translate(642,66)">
+<g transform="translate(642,52)">
   <path d="M12 2 C6 2 2 6.4 2 12 C2 19 12 27 12 27 C12 27 22 19 22 12 C22 6.4 18 2 12 2 Z" fill="none" stroke="#2EA44F" stroke-width="1.9"/>
   <circle cx="12" cy="12" r="3.6" fill="#2EA44F"/>
 </g>
-<text class="big" x="672" y="79">Ghaziabad, India</text>
+<text class="big" x="672" y="65">Ghaziabad, India</text>
 
 <!-- divider -->
-<line x1="44" y1="100" x2="816" y2="100" stroke="#1c2733"/>
-<line class="shimmer" x1="44" y1="100" x2="816" y2="100" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
+<line x1="44" y1="84" x2="816" y2="84" stroke="#1c2733"/>
+<line class="shimmer" x1="44" y1="84" x2="816" y2="84" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
 
 <!-- ===== education (row 3) ===== -->
-<g transform="translate(135,116)">
+<g transform="translate(135,97)">
   <path d="M14 2 L27 8 L14 14 L1 8 Z" fill="none" stroke="#58A6FF" stroke-width="1.7" stroke-linejoin="round"/>
   <path d="M6 10 v6 c0 2 16 2 16 0 v-6" fill="none" stroke="#58A6FF" stroke-width="1.7"/>
   <line x1="27" y1="8" x2="27" y2="15" stroke="#58A6FF" stroke-width="1.7"/>
   <circle cx="27" cy="16.5" r="1.4" fill="#58A6FF"/>
 </g>
-<text class="edu" x="173" y="130">B.Tech Computer Science (Data Science)  ·  DJ Sanghvi College of Engineering, Mumbai  ·  Class of 2026</text>
+<text class="edu" x="173" y="111">B.Tech Computer Science (Data Science)  ·  DJ Sanghvi College of Engineering, Mumbai  ·  Class of 2026</text>
 </svg>
