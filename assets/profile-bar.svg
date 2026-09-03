@@ -7,7 +7,9 @@
   <linearGradient id="pscan" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
   </linearGradient>
+  <radialGradient id="rTop" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#4763b0" stop-opacity="0.35"/><stop offset="1" stop-color="#4763b0" stop-opacity="0"/></radialGradient>
   <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5"/></filter>
+  <filter id="barglow" x="-10%" y="-500%" width="120%" height="1100%"><feGaussianBlur stdDeviation="3"/></filter>
   <clipPath id="pclip"><rect x="1" y="1" width="858" height="180" rx="16"/></clipPath>
   <style>
     text{fill:#e6edf3}
@@ -27,11 +29,18 @@
     @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
     .gl{animation:gpulse 3.6s ease-in-out infinite}
     @keyframes gpulse{0%,100%{opacity:.28}50%{opacity:.5}}
+    .tglow{animation:tg 5s ease-in-out infinite}
+    @keyframes tg{0%,100%{opacity:.55}50%{opacity:.95}}
   </style>
 </defs>
 
 <rect x="1" y="1" width="858" height="180" rx="16" fill="url(#pbg)" stroke="#233041"/>
-<g clip-path="url(#pclip)"><rect class="psweep" x="0" y="0" width="150" height="182" fill="url(#pscan)"/></g>
+<g clip-path="url(#pclip)">
+  <ellipse class="tglow" cx="430" cy="4" rx="400" ry="82" fill="url(#rTop)"/>
+  <rect class="psweep" x="0" y="0" width="150" height="182" fill="url(#pscan)"/>
+  <rect x="1" y="1" width="858" height="3.5" fill="url(#accent)" filter="url(#barglow)"/>
+  <rect x="1" y="1" width="858" height="3.5" fill="url(#accent)"/>
+</g>
 
 <!-- ===== contact badges (row 1) ===== -->
 <!-- LinkedIn -->
