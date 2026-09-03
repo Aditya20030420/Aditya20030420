@@ -18,34 +18,17 @@
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f680.svg" width="20" height="20" alt="rocket" align="top"> What I build
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9e0.svg" width="30" height="30" alt="brain"><br><br><b>RAG &amp; LLM Apps</b><br><br>
-      <sub>Hybrid semantic + keyword retrieval with grounded, citation-backed answers.</sub><br><br>
-      <img src="https://img.shields.io/badge/-RAG-1F6FEB?style=flat-square" alt="RAG">
-      <img src="https://img.shields.io/badge/-ChromaDB-1F6FEB?style=flat-square" alt="ChromaDB">
-      <img src="https://img.shields.io/badge/-BM25-1F6FEB?style=flat-square" alt="BM25"><br><br>
-      <a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance"><img src="https://img.shields.io/badge/TemporalLaw--AI-View%20Project%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB" alt="TemporalLaw-AI — View Project"></a><br>&nbsp;
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4c4.svg" width="30" height="30" alt="document"><br><br><b>Document Intelligence</b><br><br>
-      <sub>OCR-enabled extraction pipelines that parse real-world, scanned PDFs.</sub><br><br>
-      <img src="https://img.shields.io/badge/-Tesseract%20OCR-0E7490?style=flat-square" alt="Tesseract OCR">
-      <img src="https://img.shields.io/badge/-Flask-0E7490?style=flat-square" alt="Flask">
-      <img src="https://img.shields.io/badge/-Regex-0E7490?style=flat-square" alt="Regex"><br><br>
-      <a href="https://github.com/Aditya20030420/credit_card_parser"><img src="https://img.shields.io/badge/Credit%20Card%20Parser-View%20Project%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0E7490" alt="Credit Card Parser — View Project"></a><br>&nbsp;
-    </td>
-    <td width="33%" align="center" valign="top">
-      <br><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4c8.svg" width="30" height="30" alt="chart up"><br><br><b>Financial ML</b><br><br>
-      <sub>Federated-learning &amp; time-series models for cross-border risk.</sub><br><br>
-      <img src="https://img.shields.io/badge/-PyTorch-2E7D32?style=flat-square" alt="PyTorch">
-      <img src="https://img.shields.io/badge/-BiLSTM-2E7D32?style=flat-square" alt="BiLSTM">
-      <img src="https://img.shields.io/badge/-GARCH-2E7D32?style=flat-square" alt="GARCH"><br><br>
-      <a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment"><img src="https://img.shields.io/badge/Federated%20Learning-View%20Project%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32" alt="Federated Learning — View Project"></a><br>&nbsp;
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/what-i-build.svg?v=1" alt="What I build — RAG &amp; LLM Apps · Document Intelligence · Financial ML" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance"><img src="https://img.shields.io/badge/TemporalLaw--AI-View%20Project%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB" alt="TemporalLaw-AI — View Project"></a>
+  &nbsp;
+  <a href="https://github.com/Aditya20030420/credit_card_parser"><img src="https://img.shields.io/badge/Credit%20Card%20Parser-View%20Project%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0E7490" alt="Credit Card Parser — View Project"></a>
+  &nbsp;
+  <a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment"><img src="https://img.shields.io/badge/Federated%20Learning-View%20Project%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32" alt="Federated Learning — View Project"></a>
+</p>
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9f0.svg" width="20" height="20" alt="toolbox" align="top"> Tech Stack
 
