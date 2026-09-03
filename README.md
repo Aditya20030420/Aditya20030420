@@ -22,13 +22,13 @@
   <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/what-i-build.svg?v=2" alt="What I build — RAG &amp; LLM Apps · Document Intelligence · Financial ML" width="100%"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance"><img src="https://img.shields.io/badge/TemporalLaw--AI-%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB" alt="TemporalLaw-AI repository"></a>
-  &nbsp;
-  <a href="https://github.com/Aditya20030420/credit_card_parser"><img src="https://img.shields.io/badge/Credit%20Card%20Parser-%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0E7490" alt="Credit Card Parser repository"></a>
-  &nbsp;
-  <a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment"><img src="https://img.shields.io/badge/Federated%20Learning-%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32" alt="Federated Learning repository"></a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center"><a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance"><img src="https://img.shields.io/badge/TemporalLaw--AI-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="TemporalLaw-AI repository"></a></td>
+    <td width="33%" align="center"><a href="https://github.com/Aditya20030420/credit_card_parser"><img src="https://img.shields.io/badge/Credit%20Card%20Parser-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Credit Card Parser repository"></a></td>
+    <td width="33%" align="center"><a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment"><img src="https://img.shields.io/badge/Federated%20Learning-2E7D32?style=for-the-badge&logo=github&logoColor=white" alt="Federated Learning repository"></a></td>
+  </tr>
+</table>
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9f0.svg" width="20" height="20" alt="toolbox" align="top"> Tech Stack
 
