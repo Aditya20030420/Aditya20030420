@@ -19,7 +19,7 @@
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f680.svg" width="20" height="20" alt="rocket" align="top"> What I build
 
 <p align="center">
-  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/what-i-build.svg?v=1" alt="What I build — RAG &amp; LLM Apps · Document Intelligence · Financial ML" width="100%"></a>
+  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/what-i-build.svg?v=2" alt="What I build — RAG &amp; LLM Apps · Document Intelligence · Financial ML" width="100%"></a>
 </p>
 
 <p align="center">
