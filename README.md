@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance"><img src="https://img.shields.io/badge/TemporalLaw--AI-View%20Project%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB" alt="TemporalLaw-AI — View Project"></a>
+  <a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance"><img src="https://img.shields.io/badge/TemporalLaw--AI-%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=1F6FEB" alt="TemporalLaw-AI repository"></a>
   &nbsp;
-  <a href="https://github.com/Aditya20030420/credit_card_parser"><img src="https://img.shields.io/badge/Credit%20Card%20Parser-View%20Project%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0E7490" alt="Credit Card Parser — View Project"></a>
+  <a href="https://github.com/Aditya20030420/credit_card_parser"><img src="https://img.shields.io/badge/Credit%20Card%20Parser-%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0E7490" alt="Credit Card Parser repository"></a>
   &nbsp;
-  <a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment"><img src="https://img.shields.io/badge/Federated%20Learning-View%20Project%20%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32" alt="Federated Learning — View Project"></a>
+  <a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment"><img src="https://img.shields.io/badge/Federated%20Learning-%E2%86%92-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=2E7D32" alt="Federated Learning repository"></a>
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9f0.svg" width="20" height="20" alt="toolbox" align="top"> Tech Stack
