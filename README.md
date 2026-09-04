@@ -25,7 +25,7 @@
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9f0.svg" width="20" height="20" alt="toolbox" align="top"> Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/tech-stack.svg?v=3" alt="Tech Stack — Languages: Python, JavaScript, SQL · AI/ML: PyTorch, Hugging Face, scikit-learn, Pandas, NumPy · LLM/RAG Tooling: Ollama, ChromaDB, Tesseract OCR, SerpAPI · Web & Apps: Flask, Streamlit, FastAPI, React, Node.js, Express, Tailwind · Databases & Tools: MongoDB, MySQL, Git, Jupyter" width="100%">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/tech-stack.svg?v=4" alt="Tech Stack — Languages: Python, JavaScript, SQL · AI/ML: PyTorch, Hugging Face, scikit-learn, Pandas, NumPy · LLM/RAG Tooling: Ollama, ChromaDB, Tesseract OCR, SerpAPI · Web & Apps: Flask, Streamlit, FastAPI, React, Node.js, Express, Tailwind · Databases & Tools: MongoDB, MySQL, Git, Jupyter" width="100%">
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4cc.svg" width="20" height="20" alt="pin" align="top"> Featured Projects
@@ -87,7 +87,7 @@
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4bc.svg" width="20" height="20" alt="briefcase" align="top"> Experience
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/experience.svg?v=3" alt="Web Development Trainee — Cognoscente Invnted Pvt. Ltd. · Internship, Remote (Delhi), Jun–Jul 2024 · HTML5, CSS3, JavaScript, Flask, MySQL, MongoDB" width="100%">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/experience.svg?v=4" alt="Web Development Trainee — Cognoscente Invnted Pvt. Ltd. · Internship, Remote (Delhi), Jun–Jul 2024 · HTML5, CSS3, JavaScript, Flask, MySQL, MongoDB" width="100%">
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4dc.svg" width="20" height="20" alt="certificate" align="top"> Certifications
