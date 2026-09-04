@@ -93,13 +93,13 @@
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4dc.svg" width="20" height="20" alt="certificate" align="top"> Certifications
 
 <p align="center">
-  <a href="https://www.credly.com/badges/8b05207d-70be-4b02-9f18-2e8b1938dec7/public_url"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/cert-1.svg?v=1" alt="Python for Data Science & AI — IBM · Coursera · Jul 2025 (verify on Credly)" width="100%"></a>
+  <a href="https://www.credly.com/badges/8b05207d-70be-4b02-9f18-2e8b1938dec7/public_url"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/cert-1.svg?v=2" alt="Python for Data Science & AI — IBM · Coursera · Jul 2025 (verify on Credly)" width="100%"></a>
   <br>
-  <a href="https://www.credly.com/go/onHwuXou"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/cert-2.svg?v=1" alt="Cloud Architecting — AWS Academy · Apr 2025 (verify on Credly)" width="100%"></a>
+  <a href="https://www.credly.com/go/onHwuXou"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/cert-2.svg?v=2" alt="Cloud Architecting — AWS Academy · Apr 2025 (verify on Credly)" width="100%"></a>
   <br>
-  <a href="https://www.credly.com/go/izHDqCka"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/cert-3.svg?v=1" alt="Data Engineering — AWS Academy · Nov 2024 (verify on Credly)" width="100%"></a>
+  <a href="https://www.credly.com/go/izHDqCka"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/cert-3.svg?v=2" alt="Data Engineering — AWS Academy · Nov 2024 (verify on Credly)" width="100%"></a>
   <br>
-  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/cert-4.svg?v=1" alt="Full-Stack Web Development — Dexterity Edtech · Jun 2023" width="100%">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/cert-4.svg?v=2" alt="Full-Stack Web Development — Dexterity Edtech · Jun 2023" width="100%">
 </p>
 
 <p align="center">
