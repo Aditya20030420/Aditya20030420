@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 104" width="860" height="104" fill="none" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 76" width="860" height="76" fill="none" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
 <defs>
   <linearGradient id="pbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1620"/><stop offset="1" stop-color="#0b1017"/></linearGradient>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
@@ -7,19 +7,12 @@
   <linearGradient id="pscan" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
   </linearGradient>
-  <radialGradient id="rTop" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#4763b0" stop-opacity="0.32"/><stop offset="1" stop-color="#4763b0" stop-opacity="0"/></radialGradient>
-  <linearGradient id="gLinked" x1="0" y1="0" x2="0.9" y2="1"><stop offset="0" stop-color="#3B93F5"/><stop offset="1" stop-color="#0A5BB0"/></linearGradient>
-  <linearGradient id="gMail" x1="0" y1="0" x2="0.9" y2="1"><stop offset="0" stop-color="#E9705C"/><stop offset="1" stop-color="#C23A28"/></linearGradient>
-  <linearGradient id="gCert" x1="0" y1="0" x2="0.9" y2="1"><stop offset="0" stop-color="#FFA152"/><stop offset="1" stop-color="#F06400"/></linearGradient>
-  <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.32"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
-  <filter id="pshadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.5"/></filter>
-  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5"/></filter>
+  <radialGradient id="rTop" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#4763b0" stop-opacity="0.3"/><stop offset="1" stop-color="#4763b0" stop-opacity="0"/></radialGradient>
   <filter id="barglow" x="-10%" y="-500%" width="120%" height="1100%"><feGaussianBlur stdDeviation="3"/></filter>
-  <clipPath id="pclip"><rect x="1" y="1" width="858" height="102" rx="14"/></clipPath>
+  <clipPath id="pclip"><rect x="1" y="1" width="858" height="74" rx="14"/></clipPath>
   <style>
     text{fill:#e6edf3}
     .big{font-size:15px;font-weight:700}
-    .pill{font-size:13px;font-weight:700;fill:#fff}
     .edu{font-size:13.5px;font-weight:600}
     .ping{transform-box:fill-box;transform-origin:center;animation:ping 2.4s ease-out infinite}
     @keyframes ping{0%{transform:scale(1);opacity:.7}70%,100%{transform:scale(3.4);opacity:0}}
@@ -29,80 +22,43 @@
     @keyframes psweep{0%{transform:translateX(-360px)}55%,100%{transform:translateX(560px)}}
     .shimmer{stroke-dasharray:130 720;animation:sh 4.2s linear infinite}
     @keyframes sh{to{stroke-dashoffset:-850}}
-    .badge{transform-box:fill-box;transform-origin:center;animation:float 3.6s ease-in-out infinite}
-    .b2{animation-delay:.35s}.b3{animation-delay:.7s}
-    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
-    .gl{animation:gpulse 3.6s ease-in-out infinite}
-    @keyframes gpulse{0%,100%{opacity:.28}50%{opacity:.5}}
     .tglow{animation:tg 5s ease-in-out infinite}
     @keyframes tg{0%,100%{opacity:.55}50%{opacity:.95}}
   </style>
 </defs>
 
-<rect x="1" y="1" width="858" height="102" rx="14" fill="url(#pbg)" stroke="#233041"/>
+<rect x="1" y="1" width="858" height="74" rx="14" fill="url(#pbg)" stroke="#233041"/>
 <g clip-path="url(#pclip)">
-  <ellipse class="tglow" cx="430" cy="4" rx="400" ry="52" fill="url(#rTop)"/>
-  <rect class="psweep" x="0" y="0" width="150" height="104" fill="url(#pscan)"/>
+  <ellipse class="tglow" cx="430" cy="4" rx="400" ry="46" fill="url(#rTop)"/>
+  <rect class="psweep" x="0" y="0" width="150" height="76" fill="url(#pscan)"/>
   <rect x="1" y="1" width="858" height="3.5" fill="url(#accent)" filter="url(#barglow)"/>
   <rect x="1" y="1" width="858" height="3.5" fill="url(#accent)"/>
 </g>
 
-<!-- ===== contact badges (row 1) ===== -->
-<g transform="translate(230,10)"><g class="badge">
-  <rect width="118" height="32" rx="12" fill="url(#gLinked)" filter="url(#pshadow)"/>
-  <rect x="1" y="1" width="116" height="15" rx="11" fill="url(#sheen)"/>
-  <rect x="12" y="8" width="17" height="17" rx="3.5" fill="#fff"/>
-  <circle cx="16.4" cy="12.4" r="1.5" fill="#0A66C2"/>
-  <rect x="15.1" y="14.6" width="2.7" height="6.6" fill="#0A66C2"/>
-  <path d="M19.4 21.2 v-6.6 h2.6 v0.9 a2.6 2.6 0 0 1 4.7 1.6 v4.1 h-2.6 v-3.7 a1.15 1.15 0 0 0 -2.1 -0.6 v4.3 z" fill="#0A66C2"/>
-  <text class="pill" x="39" y="21">LinkedIn</text>
-</g></g>
-<g transform="translate(362,10)"><g class="badge b2">
-  <rect width="96" height="32" rx="12" fill="url(#gMail)" filter="url(#pshadow)"/>
-  <rect x="1" y="1" width="94" height="15" rx="11" fill="url(#sheen)"/>
-  <g transform="translate(13,9)">
-    <rect x="0" y="0" width="21" height="15" rx="2.4" fill="#fff"/>
-    <!-- Gmail M -->
-    <path d="M2 3.2 V13 h2.7 V6.4 Z" fill="#34A853"/>
-    <path d="M19 3.2 V13 h-2.7 V6.4 Z" fill="#4285F4"/>
-    <path d="M2 3.2 L10.5 9.2 L4.7 6.4 Z" fill="#EA4335"/>
-    <path d="M19 3.2 L10.5 9.2 L16.3 6.4 Z" fill="#FBBC04"/>
-    <path d="M4.7 6.4 L10.5 9.2 L16.3 6.4 L16.3 8.2 L10.5 11.4 L4.7 8.2 Z" fill="#C5221F" opacity="0.9"/>
-  </g>
-  <text class="pill" x="40" y="21">Gmail</text>
-</g></g>
-<g transform="translate(472,10)"><g class="badge b3">
-  <rect width="158" height="32" rx="12" fill="url(#gCert)" filter="url(#pshadow)"/>
-  <rect x="1" y="1" width="156" height="15" rx="11" fill="url(#sheen)"/>
-  <circle cx="22" cy="14" r="6.5" fill="none" stroke="#fff" stroke-width="1.7"/>
-  <path d="M18.5 19 l-2.5 6.5 l6 -3.2 l6 3.2 l-2.5 -6.5" fill="none" stroke="#fff" stroke-width="1.7" stroke-linejoin="round"/>
-  <text class="pill" x="38" y="21">Certifications</text>
-</g></g>
-
-<!-- ===== availability + location (row 2) ===== -->
-<g transform="translate(58,52)">
+<!-- availability + location -->
+<g transform="translate(58,28)">
   <circle class="ping" cx="0" cy="0" r="6" fill="#2EA44F"/>
   <circle class="dot" cx="0" cy="0" r="6" fill="#2EA44F"/>
   <circle cx="0" cy="0" r="2.4" fill="#d4ffe0"/>
 </g>
-<text class="big" x="76" y="57">Open to Full-time &amp; Internships</text>
+<text class="big" x="76" y="33">Open to Full-time &amp; Internships</text>
 
-<g transform="translate(642,44)">
+<g transform="translate(642,20)">
   <path d="M12 2 C6 2 2 6.4 2 12 C2 19 12 27 12 27 C12 27 22 19 22 12 C22 6.4 18 2 12 2 Z" fill="none" stroke="#2EA44F" stroke-width="1.9"/>
   <circle cx="12" cy="12" r="3.6" fill="#2EA44F"/>
 </g>
-<text class="big" x="672" y="57">Ghaziabad, India</text>
+<text class="big" x="672" y="33">Ghaziabad, India</text>
 
 <!-- divider -->
-<line x1="44" y1="72" x2="816" y2="72" stroke="#1c2733"/>
-<line class="shimmer" x1="44" y1="72" x2="816" y2="72" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
+<line x1="44" y1="48" x2="816" y2="48" stroke="#1c2733"/>
+<line class="shimmer" x1="44" y1="48" x2="816" y2="48" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
 
-<!-- ===== education (row 3) ===== -->
-<g transform="translate(135,79)">
+<!-- education -->
+<g transform="translate(135,55)">
   <path d="M14 2 L27 8 L14 14 L1 8 Z" fill="none" stroke="#58A6FF" stroke-width="1.7" stroke-linejoin="round"/>
   <path d="M6 10 v6 c0 2 16 2 16 0 v-6" fill="none" stroke="#58A6FF" stroke-width="1.7"/>
   <line x1="27" y1="8" x2="27" y2="15" stroke="#58A6FF" stroke-width="1.7"/>
   <circle cx="27" cy="16.5" r="1.4" fill="#58A6FF"/>
 </g>
-<text class="edu" x="173" y="93">B.Tech Computer Science (Data Science) · DJ Sanghvi College of Engineering, Mumbai · Class of 2026</text>
+<text class="edu" x="173" y="69">B.Tech Computer Science (Data Science) · DJ Sanghvi College of Engineering, Mumbai · Class of 2026</text>
 </svg>
