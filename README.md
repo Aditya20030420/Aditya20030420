@@ -32,16 +32,9 @@
 
 <table width="100%">
 <tr><td>
-<h4><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/2696.svg" width="20" height="20" alt="scales" align="top">&nbsp; TemporalLaw-AI &nbsp;—&nbsp; Time-Aware Legal Assistant</h4>
+<p align="center"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fp-temporallaw.svg?v=1" alt="TemporalLaw-AI — Time-Aware Legal Assistant · RAG · Hybrid Retrieval · ChromaDB · BM25 · Streamlit" width="100%"></p>
 <p><a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4e6.svg" width="20" height="20" alt="repository" align="top"> Repository</a> &nbsp;·&nbsp; <a href="https://temporallaw-ai.streamlit.app/"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/25b6.svg" width="20" height="20" alt="play" align="top"> Live demo</a></p>
 <p>RAG-based legal research assistant for Indian criminal law. Uses a <b>hybrid retriever</b> — <b>ChromaDB / MiniLM</b> semantic search combined with <b>BM25</b> keyword retrieval (α-weighted, α=0.7) — plus <b>SerpAPI</b> for real-time judicial rulings (Indian Kanoon, LiveLaw) and temporal <b>IPC → BNS</b> law-change detection by date. Includes a 5-metric evaluation pipeline (correctness, temporal accuracy, citation validity, hallucination rate) and a <b>Streamlit</b> UI.</p>
-<p>
-  <img src="https://img.shields.io/badge/-RAG-1F6FEB?style=flat-square" alt="RAG">
-  <img src="https://img.shields.io/badge/-Hybrid%20Retrieval-1F6FEB?style=flat-square" alt="Hybrid Retrieval">
-  <img src="https://img.shields.io/badge/-ChromaDB-1F6FEB?style=flat-square" alt="ChromaDB">
-  <img src="https://img.shields.io/badge/-BM25-1F6FEB?style=flat-square" alt="BM25">
-  <img src="https://img.shields.io/badge/-Streamlit-1F6FEB?style=flat-square" alt="Streamlit">
-</p>
 <table>
   <tr>
     <td align="center"><a href="https://temporallaw-ai.streamlit.app/"><img src="https://raw.githubusercontent.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance/main/docs/screenshot-light.png" alt="TemporalLaw-AI — light mode" width="380"></a></td>
@@ -57,14 +50,9 @@
 
 <table width="100%">
 <tr><td>
-<h4><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f30d.svg" width="20" height="20" alt="globe" align="top">&nbsp; Federated Learning &nbsp;—&nbsp; Cross-Border Financial Risk</h4>
+<p align="center"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fp-federated.svg?v=1" alt="Federated Learning — Cross-Border Financial Risk · PyTorch · Federated Learning · Differential Privacy" width="100%"></p>
 <p><a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4e6.svg" width="20" height="20" alt="repository" align="top"> Repository</a> &nbsp;·&nbsp; <a href="https://cross-border-financial-risk.onrender.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/25b6.svg" width="20" height="20" alt="play" align="top"> Live demo</a></p>
 <p>Privacy-preserving financial-risk model using <b>Federated Learning</b> and <b>BiLSTM</b> across data from <b>7+ countries</b>. Integrates macroeconomic, geopolitical (GPR), and market data; models dynamic volatility with <b>GARCH(1,1)</b>; and applies <b>Differential Privacy</b> for secure aggregation under non-IID data — GDPR/CCPA-aligned.</p>
-<p>
-  <img src="https://img.shields.io/badge/-PyTorch-1F6FEB?style=flat-square" alt="PyTorch">
-  <img src="https://img.shields.io/badge/-Federated%20Learning-1F6FEB?style=flat-square" alt="Federated Learning">
-  <img src="https://img.shields.io/badge/-Differential%20Privacy-1F6FEB?style=flat-square" alt="Differential Privacy">
-</p>
 <table>
   <tr>
     <td align="center"><a href="https://cross-border-financial-risk.onrender.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fl-predict.png" alt="Interactive prediction — India risk trajectory" width="380"></a></td>
@@ -80,14 +68,9 @@
 
 <table width="100%">
 <tr><td>
-<h4><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4b3.svg" width="20" height="20" alt="card" align="top">&nbsp; Credit Card Parser &nbsp;—&nbsp; Statement → Structured Data</h4>
+<p align="center"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fp-creditcard.svg?v=1" alt="Credit Card Parser — Statement to Structured Data · Flask · Tesseract OCR · Document AI" width="100%"></p>
 <p><a href="https://github.com/Aditya20030420/credit_card_parser"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4e6.svg" width="20" height="20" alt="repository" align="top"> Repository</a> &nbsp;·&nbsp; <a href="https://credit-card-parser-5nd9.onrender.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/25b6.svg" width="20" height="20" alt="play" align="top"> Live demo</a></p>
 <p>Full-stack <b>Flask</b> app for automated extraction of financial data from multi-bank PDF statements. Uses regex-based issuer identification and <b>Tesseract OCR</b> to handle both text-based and scanned formats, with secure file workflows, JSON export, and a drag-and-drop UI. Supports major Indian issuers (<b>SBI, HDFC, ICICI, Axis, Amex</b>).</p>
-<p>
-  <img src="https://img.shields.io/badge/-Flask-1F6FEB?style=flat-square" alt="Flask">
-  <img src="https://img.shields.io/badge/-Tesseract%20OCR-1F6FEB?style=flat-square" alt="Tesseract OCR">
-  <img src="https://img.shields.io/badge/-Document%20AI-1F6FEB?style=flat-square" alt="Document AI">
-</p>
 <table>
   <tr>
     <td align="center"><a href="https://credit-card-parser-5nd9.onrender.com"><img src="https://raw.githubusercontent.com/Aditya20030420/credit_card_parser/main/docs/app-home-light.png" alt="Credit Card Parser — light mode" width="380"></a></td>
