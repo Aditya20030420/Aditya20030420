@@ -69,7 +69,7 @@
     <path d="M19 3.2 L10.5 9.2 L16.3 6.4 Z" fill="#FBBC04"/>
     <path d="M4.7 6.4 L10.5 9.2 L16.3 6.4 L16.3 8.2 L10.5 11.4 L4.7 8.2 Z" fill="#C5221F" opacity="0.9"/>
   </g>
-  <text class="pill" x="40" y="21">Email</text>
+  <text class="pill" x="40" y="21">Gmail</text>
 </g></g>
 <g transform="translate(472,10)"><g class="badge b3">
   <rect width="158" height="32" rx="12" fill="url(#gCert)" filter="url(#pshadow)"/>
