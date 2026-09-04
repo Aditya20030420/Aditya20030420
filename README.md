@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-ganjoo-703234228/"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-linkedin.svg?v=1" height="42" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/aditya-ganjoo-703234228/"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-linkedin.svg?v=2" height="42" alt="LinkedIn"></a>
   &nbsp;
-  <a href="mailto:aditya.ganjoo03@gmail.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-gmail.svg?v=6" height="42" alt="Gmail"></a>
+  <a href="mailto:aditya.ganjoo03@gmail.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-gmail.svg?v=7" height="42" alt="Gmail"></a>
   &nbsp;
-  <a href="https://www.credly.com/users/aditya-ganjoo.0a06f7ef"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-certifications.svg?v=1" height="42" alt="Certifications"></a>
+  <a href="https://www.credly.com/users/aditya-ganjoo.0a06f7ef"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-certifications.svg?v=2" height="42" alt="Certifications"></a>
   <br>
   <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/profile-bar.svg?v=17" alt="Open to Full-time &amp; Internships · Ghaziabad, India · B.Tech Computer Science (Data Science), DJ Sanghvi College of Engineering, Mumbai · Class of 2026" width="100%"></a>
 </p>

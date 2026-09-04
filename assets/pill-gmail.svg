@@ -4,7 +4,7 @@
   <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.32"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
   <filter id="sh" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#000" flood-opacity="0.5"/></filter>
   <clipPath id="lc"><rect x="11.0" y="6.0" width="24.7" height="20.0" rx="4.5"/></clipPath>
-  <style>.fl{transform-box:fill-box;transform-origin:center;animation:f 3.6s ease-in-out infinite}@keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}</style>
+  <style>.fl{transform-box:fill-box;transform-origin:center;}@keyframes f{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}</style>
 </defs>
 <g transform="translate(2,6)"><g class="fl">
   <rect width="96" height="32" rx="12" fill="url(#g)" filter="url(#sh)"/>
