@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 76" width="860" height="76" fill="none" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 70" width="860" height="70" fill="none" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
 <defs>
   <linearGradient id="pbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1620"/><stop offset="1" stop-color="#0b1017"/></linearGradient>
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
@@ -9,7 +9,7 @@
   </linearGradient>
   <radialGradient id="rTop" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#4763b0" stop-opacity="0.3"/><stop offset="1" stop-color="#4763b0" stop-opacity="0"/></radialGradient>
   <filter id="barglow" x="-10%" y="-500%" width="120%" height="1100%"><feGaussianBlur stdDeviation="3"/></filter>
-  <clipPath id="pclip"><rect x="1" y="1" width="858" height="74" rx="14"/></clipPath>
+  <clipPath id="pclip"><rect x="1" y="1" width="858" height="68" rx="14"/></clipPath>
   <style>
     text{fill:#e6edf3}
     .big{font-size:15px;font-weight:700}
@@ -27,38 +27,38 @@
   </style>
 </defs>
 
-<rect x="1" y="1" width="858" height="74" rx="14" fill="url(#pbg)" stroke="#233041"/>
+<rect x="1" y="1" width="858" height="68" rx="14" fill="url(#pbg)" stroke="#233041"/>
 <g clip-path="url(#pclip)">
-  <ellipse class="tglow" cx="430" cy="4" rx="400" ry="46" fill="url(#rTop)"/>
-  <rect class="psweep" x="0" y="0" width="150" height="76" fill="url(#pscan)"/>
+  <ellipse class="tglow" cx="430" cy="4" rx="400" ry="40" fill="url(#rTop)"/>
+  <rect class="psweep" x="0" y="0" width="150" height="70" fill="url(#pscan)"/>
   <rect x="1" y="1" width="858" height="3.5" fill="url(#accent)" filter="url(#barglow)"/>
   <rect x="1" y="1" width="858" height="3.5" fill="url(#accent)"/>
 </g>
 
 <!-- availability + location -->
-<g transform="translate(58,28)">
+<g transform="translate(58,21)">
   <circle class="ping" cx="0" cy="0" r="6" fill="#2EA44F"/>
   <circle class="dot" cx="0" cy="0" r="6" fill="#2EA44F"/>
   <circle cx="0" cy="0" r="2.4" fill="#d4ffe0"/>
 </g>
-<text class="big" x="76" y="33">Open to Full-time &amp; Internships</text>
+<text class="big" x="76" y="26">Open to Full-time &amp; Internships</text>
 
-<g transform="translate(642,20)">
+<g transform="translate(642,13)">
   <path d="M12 2 C6 2 2 6.4 2 12 C2 19 12 27 12 27 C12 27 22 19 22 12 C22 6.4 18 2 12 2 Z" fill="none" stroke="#2EA44F" stroke-width="1.9"/>
   <circle cx="12" cy="12" r="3.6" fill="#2EA44F"/>
 </g>
-<text class="big" x="672" y="33">Ghaziabad, India</text>
+<text class="big" x="672" y="26">Ghaziabad, India</text>
 
 <!-- divider -->
-<line x1="44" y1="48" x2="816" y2="48" stroke="#1c2733"/>
-<line class="shimmer" x1="44" y1="48" x2="816" y2="48" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
+<line x1="44" y1="41" x2="816" y2="41" stroke="#1c2733"/>
+<line class="shimmer" x1="44" y1="41" x2="816" y2="41" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
 
 <!-- education -->
-<g transform="translate(135,55)">
+<g transform="translate(135,47)">
   <path d="M14 2 L27 8 L14 14 L1 8 Z" fill="none" stroke="#58A6FF" stroke-width="1.7" stroke-linejoin="round"/>
   <path d="M6 10 v6 c0 2 16 2 16 0 v-6" fill="none" stroke="#58A6FF" stroke-width="1.7"/>
   <line x1="27" y1="8" x2="27" y2="15" stroke="#58A6FF" stroke-width="1.7"/>
   <circle cx="27" cy="16.5" r="1.4" fill="#58A6FF"/>
 </g>
-<text class="edu" x="173" y="69">B.Tech Computer Science (Data Science) · DJ Sanghvi College of Engineering, Mumbai · Class of 2026</text>
+<text class="edu" x="173" y="61">B.Tech Computer Science (Data Science) · DJ Sanghvi College of Engineering, Mumbai · Class of 2026</text>
 </svg>
