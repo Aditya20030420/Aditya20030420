@@ -36,18 +36,18 @@
 </g>
 
 <!-- availability + location -->
-<g transform="translate(58,21)">
+<g transform="translate(218,21)">
   <circle class="ping" cx="0" cy="0" r="6" fill="#2EA44F"/>
   <circle class="dot" cx="0" cy="0" r="6" fill="#2EA44F"/>
   <circle cx="0" cy="0" r="2.4" fill="#d4ffe0"/>
 </g>
-<text class="big" x="76" y="26">Open to Full-time &amp; Internships</text>
+<text class="big" x="236" y="26">Open to Full-time &amp; Internships</text>
 
-<g transform="translate(642,13)">
+<g transform="translate(500,13)">
   <path d="M12 2 C6 2 2 6.4 2 12 C2 19 12 27 12 27 C12 27 22 19 22 12 C22 6.4 18 2 12 2 Z" fill="none" stroke="#2EA44F" stroke-width="1.9"/>
   <circle cx="12" cy="12" r="3.6" fill="#2EA44F"/>
 </g>
-<text class="big" x="672" y="26">Ghaziabad, India</text>
+<text class="big" x="530" y="26">Ghaziabad, India</text>
 
 <!-- divider -->
 <line x1="44" y1="41" x2="816" y2="41" stroke="#1c2733"/>
