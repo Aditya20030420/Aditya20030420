@@ -51,9 +51,11 @@
 <g transform="translate(230,10)"><g class="badge">
   <rect width="118" height="32" rx="12" fill="url(#gLinked)" filter="url(#pshadow)"/>
   <rect x="1" y="1" width="116" height="15" rx="11" fill="url(#sheen)"/>
-  <rect x="13" y="8" width="16" height="16" rx="3" fill="#fff"/>
-  <text x="21" y="20" font-size="11" font-weight="800" fill="#0A66C2" text-anchor="middle" font-family="Georgia,serif">in</text>
-  <text class="pill" x="38" y="21">LinkedIn</text>
+  <rect x="12" y="8" width="17" height="17" rx="3.5" fill="#fff"/>
+  <circle cx="16.4" cy="12.4" r="1.5" fill="#0A66C2"/>
+  <rect x="15.1" y="14.6" width="2.7" height="6.6" fill="#0A66C2"/>
+  <path d="M19.4 21.2 v-6.6 h2.6 v0.9 a2.6 2.6 0 0 1 4.7 1.6 v4.1 h-2.6 v-3.7 a1.15 1.15 0 0 0 -2.1 -0.6 v4.3 z" fill="#0A66C2"/>
+  <text class="pill" x="39" y="21">LinkedIn</text>
 </g></g>
 <g transform="translate(362,10)"><g class="badge b2">
   <rect width="96" height="32" rx="12" fill="url(#gMail)" filter="url(#pshadow)"/>
