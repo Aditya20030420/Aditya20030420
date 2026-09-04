@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 52" width="880" height="52" fill="none" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+  <linearGradient id="pbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1620"/><stop offset="1" stop-color="#0b1017"/></linearGradient>
+  <linearGradient id="pscan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.05"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="pc"><rect x="1" y="1" width="878" height="50" rx="12"/></clipPath>
+  <style>.cname{font-size:14px;font-weight:700;fill:#e6edf3}.cmeta{font-size:12px;fill:#8b949e}.cch{font-size:10.5px;font-weight:600;fill:#fff}.sw{animation:sw 9s ease-in-out infinite}@keyframes sw{0%{transform:translateX(-360px)}55%,100%{transform:translateX(620px)}}</style>
+</defs>
+<rect x="1" y="1" width="878" height="50" rx="12" fill="url(#pbg)" stroke="#233041"/>
+<g clip-path="url(#pc)"><rect class="sw" x="0" y="0" width="140" height="52" fill="url(#pscan)"/><rect x="1" y="1" width="5" height="50" fill="#A970D8"/></g>
+<g transform="translate(22,17)"><circle cx="10" cy="8" r="6" fill="none" stroke="#A970D8" stroke-width="1.7"/><path d="M6.5 13 l-2 7 l5.5 -3 l5.5 3 l-2 -7" fill="none" stroke="#A970D8" stroke-width="1.6" stroke-linejoin="round"/></g>
+<text class="cname" x="48" y="21">Full-Stack Web Development</text>
+<text class="cmeta" x="856" y="21" text-anchor="end">Dexterity Edtech · Jun 2023</text>
+<g transform="translate(48,29)"><rect width="44" height="17" rx="5" fill="#A970D8" fill-opacity="0.16" stroke="#A970D8" stroke-opacity="0.5"/><text class="cch" x="22.0" y="12" text-anchor="middle">HTML</text></g>
+<g transform="translate(98,29)"><rect width="34" height="17" rx="5" fill="#A970D8" fill-opacity="0.16" stroke="#A970D8" stroke-opacity="0.5"/><text class="cch" x="17.0" y="12" text-anchor="middle">CSS</text></g>
+<g transform="translate(138,29)"><rect width="64" height="17" rx="5" fill="#A970D8" fill-opacity="0.16" stroke="#A970D8" stroke-opacity="0.5"/><text class="cch" x="32.0" y="12" text-anchor="middle">JavaScript</text></g>
+</svg>
