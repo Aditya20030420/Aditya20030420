@@ -86,84 +86,19 @@
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4bc.svg" width="20" height="20" alt="briefcase" align="top"> Experience
 
-<table width="100%">
-<tr><td>
-<h4>Web Development Trainee &nbsp;—&nbsp; Cognoscente Invnted Pvt. Ltd.</h4>
-<p><i>Internship &nbsp;·&nbsp; Remote (Delhi) &nbsp;·&nbsp; Jun 2024 – Jul 2024</i></p>
-<ul>
-  <li>Built a <b>role-based task-tracking web app</b> with distinct access levels for employees, managers, and senior management — including an employee-onboarding registration module.</li>
-  <li>Developed and integrated <b>Flask</b> APIs with <b>MySQL</b> and <b>MongoDB</b> to improve data-management efficiency.</li>
-  <li>Built responsive pages in <b>HTML / CSS / JavaScript</b> to design specs and ensured cross-browser compatibility.</li>
-</ul>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/experience.svg?v=1" alt="Web Development Trainee — Cognoscente Invnted Pvt. Ltd. · Internship, Remote (Delhi), Jun–Jul 2024 · HTML5, CSS3, JavaScript, Flask, MySQL, MongoDB" width="100%">
 </p>
-</td></tr>
-</table>
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4dc.svg" width="20" height="20" alt="certificate" align="top"> Certifications
 
-<table width="100%">
-<tr><td>
-<table>
-  <tr>
-    <th align="left">Certification</th>
-    <th align="left">Issuer</th>
-    <th align="left">Date</th>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://www.credly.com/badges/8b05207d-70be-4b02-9f18-2e8b1938dec7/public_url">Python for Data Science &amp; AI</a></b><br>
-      <img src="https://img.shields.io/badge/-Python-30363D?style=flat-square" alt="Python">
-      <img src="https://img.shields.io/badge/-Matplotlib-30363D?style=flat-square" alt="Matplotlib">
-      <img src="https://img.shields.io/badge/-Bokeh-30363D?style=flat-square" alt="Bokeh">
-      <img src="https://img.shields.io/badge/-Data%20Science-30363D?style=flat-square" alt="Data Science">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM">
-      <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera">
-    </td>
-    <td>Jul 2025</td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://www.credly.com/go/onHwuXou">Cloud Architecting</a></b><br>
-      <img src="https://img.shields.io/badge/-Architecting%20on%20AWS-30363D?style=flat-square" alt="Architecting on AWS">
-      <img src="https://img.shields.io/badge/-AWS%20Cloud%20Best%20Practices-30363D?style=flat-square" alt="AWS Cloud Best Practices">
-      <img src="https://img.shields.io/badge/-Building%20Infrastructure-30363D?style=flat-square" alt="Building Infrastructure">
-    </td>
-    <td><img src="https://img.shields.io/badge/AWS%20Academy-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS Academy"></td>
-    <td>Apr 2025</td>
-  </tr>
-  <tr>
-    <td>
-      <b><a href="https://www.credly.com/go/izHDqCka">Data Engineering</a></b><br>
-      <img src="https://img.shields.io/badge/-AWS-30363D?style=flat-square" alt="AWS">
-      <img src="https://img.shields.io/badge/-Data%20Engineering-30363D?style=flat-square" alt="Data Engineering">
-      <img src="https://img.shields.io/badge/-Data%20Pipelines-30363D?style=flat-square" alt="Data Pipelines">
-      <img src="https://img.shields.io/badge/-Securing%20Data-30363D?style=flat-square" alt="Securing Data">
-    </td>
-    <td><img src="https://img.shields.io/badge/AWS%20Academy-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS Academy"></td>
-    <td>Nov 2024</td>
-  </tr>
-  <tr>
-    <td>
-      <b>Full-Stack Web Development</b><br>
-      <img src="https://img.shields.io/badge/-HTML-30363D?style=flat-square" alt="HTML">
-      <img src="https://img.shields.io/badge/-CSS-30363D?style=flat-square" alt="CSS">
-      <img src="https://img.shields.io/badge/-JavaScript-30363D?style=flat-square" alt="JavaScript">
-    </td>
-    <td><img src="https://img.shields.io/badge/Dexterity%20Edtech-6E5494?style=flat-square" alt="Dexterity Edtech"></td>
-    <td>Jun 2023</td>
-  </tr>
-</table>
-</td></tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/certifications.svg?v=1" alt="Certifications — Python for Data Science & AI (IBM · Coursera, Jul 2025); Cloud Architecting (AWS Academy, Apr 2025); Data Engineering (AWS Academy, Nov 2024); Full-Stack Web Development (Dexterity Edtech, Jun 2023)" width="100%">
+</p>
+
+<p align="center">
+  <sub>Verify on Credly &#8594; <a href="https://www.credly.com/badges/8b05207d-70be-4b02-9f18-2e8b1938dec7/public_url">Python for Data Science &amp; AI</a> &#183; <a href="https://www.credly.com/go/onHwuXou">Cloud Architecting</a> &#183; <a href="https://www.credly.com/go/izHDqCka">Data Engineering</a></sub>
+</p>
 
 <p align="center">
   <i>Open to collaboration on applied AI/ML — reach out via LinkedIn or email above.</i>

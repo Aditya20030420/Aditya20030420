@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 158" width="880" height="158" fill="none" font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+<defs>
+  <linearGradient id="pbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1620"/><stop offset="1" stop-color="#0b1017"/></linearGradient>
+  <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+  <linearGradient id="pscan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.06"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="rTop" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#6366F1" stop-opacity="0.2"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+  <filter id="bg" x="-10%" y="-500%" width="120%" height="1100%"><feGaussianBlur stdDeviation="3"/></filter>
+  <clipPath id="pc"><rect x="1" y="1" width="878" height="156" rx="15"/></clipPath>
+  <style>.ttl{font-size:17px;font-weight:700;fill:#e6edf3}.sub{font-size:14px;fill:#9aa7b4}.meta{font-size:12.5px;fill:#8b949e;font-style:italic}.bul{font-size:12.5px;fill:#c9d1d9}.chip{font-size:11.5px;font-weight:700;fill:#fff}.cname{font-size:14px;font-weight:700;fill:#e6edf3}.cmeta{font-size:12px;fill:#8b949e}.cch{font-size:10.5px;font-weight:600;fill:#fff}.sw{animation:sw 8s ease-in-out infinite}@keyframes sw{0%{transform:translateX(-380px)}55%,100%{transform:translateX(600px)}}.tg{animation:tg 5s ease-in-out infinite}@keyframes tg{0%,100%{opacity:.5}50%{opacity:.9}}</style>
+</defs>
+<rect x="1" y="1" width="878" height="156" rx="15" fill="url(#pbg)" stroke="#233041"/>
+<g clip-path="url(#pc)"><ellipse class="tg" cx="220" cy="4" rx="360" ry="52" fill="url(#rTop)"/><rect class="sw" x="0" y="0" width="150" height="158" fill="url(#pscan)"/><rect x="1" y="1" width="878" height="3.5" fill="url(#acc)" filter="url(#bg)"/><rect x="1" y="1" width="878" height="3.5" fill="url(#acc)"/></g>
+<g transform="translate(24,13)"><rect x="3" y="7" width="18" height="13" rx="2" fill="none" stroke="#B39DF7" stroke-width="1.7"/><path d="M8 7 V5 a2 2 0 0 1 2 -2 h4 a2 2 0 0 1 2 2 V7" fill="none" stroke="#B39DF7" stroke-width="1.7"/><line x1="3" y1="12.5" x2="21" y2="12.5" stroke="#B39DF7" stroke-width="1.5"/></g>
+<text class="ttl" x="54" y="30">Web Development Trainee</text>
+<text class="sub" x="277" y="30">— Cognoscente Invnted Pvt. Ltd.</text>
+<text class="meta" x="54" y="50">Internship &#183; Remote (Delhi) &#183; Jun 2024 &#8211; Jul 2024</text>
+<circle cx="46" cy="68" r="2" fill="#A855F7"/><text class="bul" x="56" y="72">Built a role-based task-tracking web app with access levels for employees, managers, and senior management.</text>
+<circle cx="46" cy="87" r="2" fill="#A855F7"/><text class="bul" x="56" y="91">Developed and integrated Flask APIs with MySQL and MongoDB to improve data-management efficiency.</text>
+<circle cx="46" cy="106" r="2" fill="#A855F7"/><text class="bul" x="56" y="110">Built responsive pages in HTML / CSS / JavaScript to design specs, ensuring cross-browser compatibility.</text>
+<g transform="translate(54,124)"><rect width="57" height="20" rx="6" fill="#E4644A" fill-opacity="0.18" stroke="#E4644A" stroke-opacity="0.55"/><text class="chip" x="28.5" y="14" text-anchor="middle">HTML5</text></g>
+<g transform="translate(118,124)"><rect width="45" height="20" rx="6" fill="#4A90D9" fill-opacity="0.18" stroke="#4A90D9" stroke-opacity="0.55"/><text class="chip" x="22.5" y="14" text-anchor="middle">CSS3</text></g>
+<g transform="translate(170,124)"><rect width="73" height="20" rx="6" fill="#F0DB4F" fill-opacity="0.18" stroke="#F0DB4F" stroke-opacity="0.55"/><text class="chip" x="36.5" y="14" text-anchor="middle">JavaScript</text></g>
+<g transform="translate(250,124)"><rect width="45" height="20" rx="6" fill="#C9D1D9" fill-opacity="0.18" stroke="#C9D1D9" stroke-opacity="0.55"/><text class="chip" x="22.5" y="14" text-anchor="middle">Flask</text></g>
+<g transform="translate(302,124)"><rect width="56" height="20" rx="6" fill="#6BA9D6" fill-opacity="0.18" stroke="#6BA9D6" stroke-opacity="0.55"/><text class="chip" x="28.0" y="14" text-anchor="middle">MySQL</text></g>
+<g transform="translate(365,124)"><rect width="73" height="20" rx="6" fill="#5FC868" fill-opacity="0.18" stroke="#5FC868" stroke-opacity="0.55"/><text class="chip" x="36.5" y="14" text-anchor="middle">MongoDB</text></g>
+</svg>
