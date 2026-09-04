@@ -25,12 +25,12 @@
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9f0.svg" width="20" height="20" alt="toolbox" align="top"> Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/tech-stack.svg?v=4" alt="Tech Stack — Languages: Python, JavaScript, SQL · AI/ML: PyTorch, Hugging Face, scikit-learn, Pandas, NumPy · LLM/RAG Tooling: Ollama, ChromaDB, Tesseract OCR, SerpAPI · Web & Apps: Flask, Streamlit, FastAPI, React, Node.js, Express, Tailwind · Databases & Tools: MongoDB, MySQL, Git, Jupyter" width="100%">
+  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/tech-stack.svg?v=4" alt="Tech Stack — Languages: Python, JavaScript, SQL · AI/ML: PyTorch, Hugging Face, scikit-learn, Pandas, NumPy · LLM/RAG Tooling: Ollama, ChromaDB, Tesseract OCR, SerpAPI · Web & Apps: Flask, Streamlit, FastAPI, React, Node.js, Express, Tailwind · Databases & Tools: MongoDB, MySQL, Git, Jupyter" width="100%"></a>
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4cc.svg" width="20" height="20" alt="pin" align="top"> Featured Projects
 
-<p align="center"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fp-temporallaw.svg?v=2" alt="TemporalLaw-AI — Time-Aware Legal Assistant · RAG · Hybrid Retrieval · ChromaDB · BM25 · Streamlit" width="100%"></p>
+<p align="center"><a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fp-temporallaw.svg?v=2" alt="TemporalLaw-AI — Time-Aware Legal Assistant · RAG · Hybrid Retrieval · ChromaDB · BM25 · Streamlit" width="100%"></a></p>
 <p align="center"><a href="https://github.com/Aditya20030420/TemporalLaw-AI-Time-Aware-Legal-Assistance"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-repo.svg?v=1" height="40" alt="Repository"></a> &nbsp; <a href="https://temporallaw-ai.streamlit.app/"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-demo.svg?v=1" height="40" alt="Live demo"></a></p>
 <p>RAG-based legal research assistant for Indian criminal law. Uses a <b>hybrid retriever</b> — <b>ChromaDB / MiniLM</b> semantic search combined with <b>BM25</b> keyword retrieval (α-weighted, α=0.7) — plus <b>SerpAPI</b> for real-time judicial rulings (Indian Kanoon, LiveLaw) and temporal <b>IPC → BNS</b> law-change detection by date. Includes a 5-metric evaluation pipeline (correctness, temporal accuracy, citation validity, hallucination rate) and a <b>Streamlit</b> UI.</p>
 <table align="center">
@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fp-federated.svg?v=2" alt="Federated Learning — Cross-Border Financial Risk · PyTorch · Federated Learning · Differential Privacy" width="100%"></p>
+<p align="center"><a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fp-federated.svg?v=2" alt="Federated Learning — Cross-Border Financial Risk · PyTorch · Federated Learning · Differential Privacy" width="100%"></a></p>
 <p align="center"><a href="https://github.com/Aditya20030420/Federated-Learning-Cross-Border-Financial-Risk-Assessment"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-repo.svg?v=1" height="40" alt="Repository"></a> &nbsp; <a href="https://cross-border-financial-risk.onrender.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-demo.svg?v=1" height="40" alt="Live demo"></a></p>
 <p>Privacy-preserving financial-risk model using <b>Federated Learning</b> and <b>BiLSTM</b> across data from <b>7+ countries</b>. Integrates macroeconomic, geopolitical (GPR), and market data; models dynamic volatility with <b>GARCH(1,1)</b>; and applies <b>Differential Privacy</b> for secure aggregation under non-IID data — GDPR/CCPA-aligned.</p>
 <table align="center">
@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-<p align="center"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fp-creditcard.svg?v=2" alt="Credit Card Parser — Statement to Structured Data · Flask · Tesseract OCR · Document AI" width="100%"></p>
+<p align="center"><a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fp-creditcard.svg?v=2" alt="Credit Card Parser — Statement to Structured Data · Flask · Tesseract OCR · Document AI" width="100%"></a></p>
 <p align="center"><a href="https://github.com/Aditya20030420/credit_card_parser"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-repo.svg?v=1" height="40" alt="Repository"></a> &nbsp; <a href="https://credit-card-parser-5nd9.onrender.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-demo.svg?v=1" height="40" alt="Live demo"></a></p>
 <p>Full-stack <b>Flask</b> app for automated extraction of financial data from multi-bank PDF statements. Uses regex-based issuer identification and <b>Tesseract OCR</b> to handle both text-based and scanned formats, with secure file workflows, JSON export, and a drag-and-drop UI. Supports major Indian issuers (<b>SBI, HDFC, ICICI, Axis, Amex</b>).</p>
 <table align="center">
@@ -63,7 +63,7 @@
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4bc.svg" width="20" height="20" alt="briefcase" align="top"> Experience
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/experience.svg?v=4" alt="Web Development Trainee — Cognoscente Invnted Pvt. Ltd. · Internship, Remote (Delhi), Jun–Jul 2024 · HTML5, CSS3, JavaScript, Flask, MySQL, MongoDB" width="100%">
+  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/experience.svg?v=4" alt="Web Development Trainee — Cognoscente Invnted Pvt. Ltd. · Internship, Remote (Delhi), Jun–Jul 2024 · HTML5, CSS3, JavaScript, Flask, MySQL, MongoDB" width="100%"></a>
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4dc.svg" width="20" height="20" alt="certificate" align="top"> Certifications
