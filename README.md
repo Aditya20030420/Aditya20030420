@@ -24,56 +24,9 @@
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9f0.svg" width="20" height="20" alt="toolbox" align="top"> Tech Stack
 
-<table>
-  <tr>
-    <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9d1-200d-1f4bb.svg" width="20" height="20" alt="developer" align="top">&nbsp; Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f916.svg" width="20" height="20" alt="robot" align="top">&nbsp; AI / ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f9e0.svg" width="20" height="20" alt="brain" align="top">&nbsp; LLM / RAG Tooling</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
-      <img src="https://img.shields.io/badge/ChromaDB-FCA326?style=flat-square&logo=chromadb&logoColor=white">
-      <img src="https://img.shields.io/badge/Tesseract%20OCR-2F9599?style=flat-square">
-      <img src="https://img.shields.io/badge/SerpAPI-2E9BDA?style=flat-square">
-    </td>
-  </tr>
-  <tr>
-    <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f310.svg" width="20" height="20" alt="web" align="top">&nbsp; Web &amp; Apps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td><b><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f5c4.svg" width="20" height="20" alt="database" align="top">&nbsp; Databases &amp; Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/tech-stack.svg?v=1" alt="Tech Stack — Languages: Python, JavaScript, SQL · AI/ML: PyTorch, Hugging Face, scikit-learn, Pandas, NumPy · LLM/RAG Tooling: Ollama, ChromaDB, Tesseract OCR, SerpAPI · Web & Apps: Flask, Streamlit, FastAPI, React, Node.js, Express, Tailwind · Databases & Tools: MongoDB, MySQL, Git, Jupyter" width="100%">
+</p>
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4cc.svg" width="20" height="20" alt="pin" align="top"> Featured Projects
 
