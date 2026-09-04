@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-ganjoo-703234228/"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-linkedin.svg?v=1" height="42" alt="LinkedIn"></a>
   &nbsp;
-  <a href="mailto:aditya.ganjoo03@gmail.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-gmail.svg?v=2" height="42" alt="Gmail"></a>
+  <a href="mailto:aditya.ganjoo03@gmail.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-gmail.svg?v=3" height="42" alt="Gmail"></a>
   &nbsp;
   <a href="https://www.credly.com/users/aditya-ganjoo.0a06f7ef"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-certifications.svg?v=1" height="42" alt="Certifications"></a>
   <br>

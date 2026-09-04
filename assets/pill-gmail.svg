@@ -8,13 +8,9 @@
 <g transform="translate(2,6)"><g class="fl">
   <rect width="96" height="32" rx="12" fill="url(#g)" filter="url(#sh)"/>
   <rect x="1" y="1" width="94" height="15" rx="11" fill="url(#sheen)"/>
-  <g transform="translate(11,7)">
-  <rect x="0" y="0" width="24" height="17" rx="2.8" fill="#fff"/>
-  <path d="M2.4 3.4 V13.8 h3.1 V7.4 Z" fill="#34A853"/>
-  <path d="M21.6 3.4 V13.8 h-3.1 V7.4 Z" fill="#4285F4"/>
-  <path d="M2.4 3.4 L12 10.2 L5.5 7.4 Z" fill="#EA4335"/>
-  <path d="M21.6 3.4 L12 10.2 L18.5 7.4 Z" fill="#FBBC04"/>
-  <path d="M5.5 7.4 L12 10.2 L18.5 7.4 L18.5 9.4 L12 12.6 L5.5 9.4 Z" fill="#C5221F"/>
+  <g transform="translate(13,9)" fill="none" stroke="#fff" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0.9" y="1.4" width="22.2" height="15.2" rx="2.6"/>
+  <path d="M1.6 3.2 L12 11 L22.4 3.2"/>
 </g>
   <text x="42" y="21" font-size="13" font-weight="700" fill="#fff">Gmail</text>
 </g></g>
