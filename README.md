@@ -8,9 +8,7 @@
   <a href="mailto:aditya.ganjoo03@gmail.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-gmail.svg?v=1" height="42" alt="Gmail"></a>
   &nbsp;
   <a href="https://www.credly.com/users/aditya-ganjoo.0a06f7ef"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-certifications.svg?v=1" height="42" alt="Certifications"></a>
-</p>
-
-<p align="center">
+  <br>
   <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/profile-bar.svg?v=12" alt="Open to Full-time &amp; Internships · Ghaziabad, India · B.Tech Computer Science (Data Science), DJ Sanghvi College of Engineering, Mumbai · Class of 2026" width="100%"></a>
 </p>
 
