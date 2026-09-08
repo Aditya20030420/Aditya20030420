@@ -61,7 +61,7 @@
 </table>
 
 <p align="center"><a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/fp-parcelpilot.svg?v=1" alt="parcelpilot-ops-copilot — AI Support & Ops Copilot · FastAPI · React · RAG · Access Control" width="100%"></a></p>
-<p align="center"><a href="https://github.com/Aditya20030420/parcelpilot-ops-copilot"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-repo.svg?v=1" height="40" alt="Repository"></a></p>
+<p align="center"><a href="https://github.com/Aditya20030420/parcelpilot-ops-copilot"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-repo.svg?v=1" height="40" alt="Repository"></a> &nbsp; <a href="https://parcelpilot-ops-copilot.onrender.com"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/pill-demo.svg?v=1" height="40" alt="Live demo"></a></p>
 <p>AI support &amp; operations copilot for ParcelPilot (CalQuity assessment). Customer-facing and internal chatbots on a <b>FastAPI + React</b> stack, with <b>source-reliability-aware retrieval</b>, per-account access control, and confirmation-gated actions.</p>
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4bc.svg" width="20" height="20" alt="briefcase" align="top"> Experience
