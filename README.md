@@ -95,9 +95,9 @@
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4ca.svg" width="20" height="20" alt="bar chart" align="top"> GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api?username=Aditya20030420&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=4F9EE8&icon_color=4F9EE8&text_color=8b949e" height="165" alt="Aditya Ganjoo's GitHub stats"></a>
+  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api?username=Aditya20030420&show_icons=true&count_private=true&border_radius=12&border_color=233041&bg_color=0,0f1620,0b1017&title_color=4F9EE8&icon_color=4F9EE8&text_color=8b949e&ring_color=4F9EE8" height="165" alt="Aditya Ganjoo's GitHub stats"></a>
   &nbsp;
-  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya20030420&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=4F9EE8&text_color=8b949e" height="165" alt="Aditya Ganjoo's most used languages"></a>
+  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya20030420&layout=compact&langs_count=8&border_radius=12&border_color=233041&bg_color=0,0f1620,0b1017&title_color=4F9EE8&text_color=8b949e" height="165" alt="Aditya Ganjoo's most used languages"></a>
 </p>
 
 <p align="center">
