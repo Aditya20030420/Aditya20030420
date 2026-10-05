@@ -95,8 +95,12 @@
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4ca.svg" width="20" height="20" alt="bar chart" align="top"> GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api?username=Aditya20030420&show_icons=true&count_private=true&border_radius=12&border_color=233041&bg_color=0,0f1620,0b1017&title_color=4F9EE8&icon_color=4F9EE8&text_color=8b949e&ring_color=4F9EE8" height="165" alt="Aditya Ganjoo's GitHub stats"></a>
+  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api?username=Aditya20030420&show_icons=true&count_private=true&border_radius=12&border_color=233041&bg_color=0,0f1620,0b1017&title_color=4F9EE8&icon_color=4F9EE8&text_color=8b949e&ring_color=4F9EE8" height="170" alt="Aditya Ganjoo's GitHub stats"></a>
   &nbsp;
+  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya20030420&border_radius=12&background=0b1017&border=233041&stroke=233041&ring=4F9EE8&fire=4F9EE8&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=4F9EE8&sideLabels=8b949e&dates=8b949e" height="170" alt="Aditya Ganjoo's contribution streak"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya20030420&layout=compact&langs_count=8&border_radius=12&border_color=233041&bg_color=0,0f1620,0b1017&title_color=4F9EE8&text_color=8b949e" height="165" alt="Aditya Ganjoo's most used languages"></a>
 </p>
 
