@@ -105,5 +105,9 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/activity-graph.svg?v=1" alt="Aditya Ganjoo's contribution activity over the last year — 331 contributions" width="100%"></a>
+</p>
+
+<p align="center">
   <i>Open to collaboration on applied AI/ML — reach out via LinkedIn or email above.</i>
 </p>
