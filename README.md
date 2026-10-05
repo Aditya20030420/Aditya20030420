@@ -80,14 +80,6 @@
   <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/experience.svg?v=4" alt="Web Development Trainee — Cognoscente Invnted Pvt. Ltd. · Internship, Remote (Delhi), Jun–Jul 2024 · HTML5, CSS3, JavaScript, Flask, MySQL, MongoDB" width="100%"></a>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4ca.svg" width="20" height="20" alt="bar chart" align="top"> GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api?username=Aditya20030420&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=4F9EE8&icon_color=4F9EE8&text_color=8b949e" height="165" alt="Aditya Ganjoo's GitHub stats"></a>
-  &nbsp;
-  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya20030420&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=4F9EE8&text_color=8b949e" height="165" alt="Aditya Ganjoo's most used languages"></a>
-</p>
-
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4dc.svg" width="20" height="20" alt="certificate" align="top"> Certifications
 
 <p align="center">
@@ -98,6 +90,14 @@
   <a href="https://www.credly.com/go/izHDqCka"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/cert-3.svg?v=3" alt="Data Engineering — AWS Academy · Nov 2024 (verify on Credly)" width="100%"></a>
   <br>
   <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/cert-4.svg?v=3" alt="Full-Stack Web Development — Dexterity Edtech · Jun 2023" width="100%">
+</p>
+
+### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4ca.svg" width="20" height="20" alt="bar chart" align="top"> GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api?username=Aditya20030420&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=4F9EE8&icon_color=4F9EE8&text_color=8b949e" height="165" alt="Aditya Ganjoo's GitHub stats"></a>
+  &nbsp;
+  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya20030420&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=4F9EE8&text_color=8b949e" height="165" alt="Aditya Ganjoo's most used languages"></a>
 </p>
 
 <p align="center">
