@@ -12,6 +12,10 @@
   <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/profile-bar.svg?v=17" alt="Open to Full-time &amp; Internships · Ghaziabad, India · B.Tech Computer Science (Data Science), DJ Sanghvi College of Engineering, Mumbai · Class of 2026" width="100%"></a>
 </p>
 
+<p align="center">
+  <i>Building retrieval-augmented and document-intelligence systems — turning messy real-world documents and financial data into reliable, verifiable answers.</i>
+</p>
+
 ---
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f680.svg" width="20" height="20" alt="rocket" align="top"> What I build
@@ -74,6 +78,14 @@
 
 <p align="center">
   <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/experience.svg?v=4" alt="Web Development Trainee — Cognoscente Invnted Pvt. Ltd. · Internship, Remote (Delhi), Jun–Jul 2024 · HTML5, CSS3, JavaScript, Flask, MySQL, MongoDB" width="100%"></a>
+</p>
+
+### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4ca.svg" width="20" height="20" alt="bar chart" align="top"> GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api?username=Aditya20030420&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=4F9EE8&icon_color=4F9EE8&text_color=8b949e" height="165" alt="Aditya Ganjoo's GitHub stats"></a>
+  &nbsp;
+  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya20030420&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=4F9EE8&text_color=8b949e" height="165" alt="Aditya Ganjoo's most used languages"></a>
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4dc.svg" width="20" height="20" alt="certificate" align="top"> Certifications
