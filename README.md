@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/hero.svg?v=14" alt="Aditya Ganjoo — Aspiring AI / ML Engineer / Data Analyst / Data Scientist · coding-themed animated banner · RAG Systems · Document Intelligence · Financial ML" width="100%"></a>
+  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/hero.svg?v=15" alt="Aditya Ganjoo — Aspiring AI / ML Engineer / Data Analyst / Data Scientist · coding-themed animated banner · RAG Systems · Document Intelligence · Financial ML" width="100%"></a>
 </p>
 
 <p align="center">
