@@ -81,8 +81,8 @@ ROLES = ["AI / ML Engineer", "Data Analyst", "Data Scientist"]
 
 # ---- code typing timeline --------------------------------------------------
 PERCHAR = 0.016   # s per char typed
-HOLD = 2.6        # s all lines visible
-CLEAR = 1.0       # s to wipe
+PERERASE = 0.006  # s per char deleted (faster than typing)
+HOLD = 2.6        # s all lines visible before deleting
 FS = 11           # code font-size
 DY = 13.5         # line height
 Y0 = 52           # first baseline
@@ -116,28 +116,29 @@ def color_line(s):
 def tspans(s):
     return "".join(f'<tspan class="{k}">{html.escape(t)}</tspan>' for t, k in color_line(s))
 
-# per-snippet window durations
+# per-snippet window durations: type all lines, hold, then delete bottom-up
 def tl(line): return max(0.15, len(line) * PERCHAR)
-windows = []
-for snip in SNIPPETS:
-    lines = snip.split("\n")
-    tt = sum(tl(l) for l in lines)
-    windows.append(tt + HOLD + CLEAR)
+def el(line): return max(0.10, len(line) * PERERASE)
+windows = [sum(tl(l) for l in snip.split("\n")) + HOLD + sum(el(l) for l in snip.split("\n"))
+           for snip in SNIPPETS]
 T = sum(windows) + 0.2   # small tail so no keyTime lands exactly on 1
 
 defs, body = [], []
 cum = 0.0
 for s, snip in enumerate(SNIPPETS):
     lines = snip.split("\n")
-    tt = sum(tl(l) for l in lines)
-    start = 0.0
+    tls = [tl(l) for l in lines]
+    els = [el(l) for l in lines]
+    tt = sum(tls)
+    tstart = [sum(tls[:i]) for i in range(len(lines))]
+    order = list(reversed(range(len(lines))))          # delete bottom line first
+    pos = {idx: p for p, idx in enumerate(order)}
+    eoff = [sum(els[order[k]] for k in range(pos[i])) for i in range(len(lines))]
     for i, line in enumerate(lines):
-        d = tl(line)
-        a = max((cum + start) / T, 0.0006)
-        b = (cum + start + d) / T
-        c = (cum + tt + HOLD) / T
-        e = (cum + windows[s]) / T
-        start += d
+        a = max((cum + tstart[i]) / T, 0.0006)
+        b = (cum + tstart[i] + tls[i]) / T
+        es = (cum + tt + HOLD + eoff[i]) / T           # this line's delete start
+        ee = (cum + tt + HOLD + eoff[i] + els[i]) / T  # delete end
         if not line.strip():
             continue
         w = len(line) * CPX + 8
@@ -146,7 +147,7 @@ for s, snip in enumerate(SNIPPETS):
         defs.append(
             f'<clipPath id="{cid}"><rect x="40" y="{y-10:.0f}" width="0" height="15">'
             f'<animate attributeName="width" values="0;0;{w:.0f};{w:.0f};0;0" '
-            f'keyTimes="0;{a:.5f};{b:.5f};{c:.5f};{e:.5f};1" dur="{T:.1f}s" '
+            f'keyTimes="0;{a:.5f};{b:.5f};{es:.5f};{ee:.5f};1" dur="{T:.1f}s" '
             f'repeatCount="indefinite" calcMode="linear"/></rect></clipPath>')
         body.append(f'<g clip-path="url(#{cid})"><text x="40" y="{y}" class="code">{tspans(line)}</text></g>')
     cum += windows[s]
