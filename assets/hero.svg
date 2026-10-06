@@ -2,69 +2,135 @@
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1620"/><stop offset="1" stop-color="#0b1017"/></linearGradient>
   <linearGradient id="ul" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A970D8"/><stop offset="1" stop-color="#4F9EE8"/></linearGradient>
-  <radialGradient id="focus" cx="50%" cy="56%" r="62%">
-    <stop offset="0" stop-color="#0b1017" stop-opacity="0.92"/>
-    <stop offset="55%" stop-color="#0b1017" stop-opacity="0.78"/>
-    <stop offset="100%" stop-color="#0b1017" stop-opacity="0"/>
-  </radialGradient>
+  <radialGradient id="focus" cx="50%" cy="56%" r="60%"><stop offset="0" stop-color="#0b1017" stop-opacity="0.95"/><stop offset="52%" stop-color="#0b1017" stop-opacity="0.82"/><stop offset="100%" stop-color="#0b1017" stop-opacity="0"/></radialGradient>
   <clipPath id="round"><rect x="1" y="1" width="1198" height="328" rx="16"/></clipPath>
-  <clipPath id="t1"><rect x="564" y="218" width="190" height="26">
-    <animate attributeName="width" values="0;190;190;0;0" keyTimes="0;0.08;0.28;0.333;1" dur="12s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
-  <clipPath id="t2"><rect x="564" y="218" width="0" height="26">
-    <animate attributeName="width" values="0;0;148;148;0;0" keyTimes="0;0.333;0.413;0.613;0.667;1" dur="12s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
-  <clipPath id="t3"><rect x="564" y="218" width="0" height="26">
-    <animate attributeName="width" values="0;0;168;168;0" keyTimes="0;0.667;0.747;0.947;1" dur="12s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
-  <g id="cb" class="code">
-    <text x="40" y="20"><tspan class="kw">import</tspan><tspan class="var"> torch</tspan></text>
-    <text x="40" y="44"><tspan class="kw">from</tspan><tspan class="var"> rag </tspan><tspan class="kw">import</tspan><tspan class="var"> Retriever, Reranker</tspan></text>
-    <text x="40" y="68"><tspan class="cm"># hybrid retrieval · document intelligence · financial ML</tspan></text>
-    <text x="40" y="92"><tspan class="kw">class</tspan><tspan class="fn"> Engineer</tspan><tspan class="var">(AI, ML):</tspan></text>
-    <text x="40" y="116"><tspan class="var">    focus = [</tspan><tspan class="str">"RAG"</tspan><tspan class="var">, </tspan><tspan class="str">"DocAI"</tspan><tspan class="var">, </tspan><tspan class="str">"FinML"</tspan><tspan class="var">]</tspan></text>
-    <text x="40" y="140"><tspan class="kw">    def</tspan><tspan class="fn"> ship</tspan><tspan class="var">(self): </tspan><tspan class="kw">return</tspan><tspan class="var"> production</tspan></text>
-    <text x="40" y="164"><tspan class="var">    status = </tspan><tspan class="str">"open to roles"</tspan></text>
-    <text x="760" y="20"><tspan class="kw">async def</tspan><tspan class="fn"> build</tspan><tspan class="var">(idea):</tspan></text>
-    <text x="760" y="44"><tspan class="var">    plan = </tspan><tspan class="kw">await</tspan><tspan class="var"> design(idea)</tspan></text>
-    <text x="760" y="68"><tspan class="kw">    return</tspan><tspan class="var"> deploy(plan)</tspan></text>
-    <text x="760" y="116"><tspan class="cm"># 2026 · B.Tech CS (Data Science)</tspan></text>
-    <text x="760" y="140"><tspan class="cm"># DJ Sanghvi, Mumbai</tspan></text>
-  </g>
+  <clipPath id="r0"><rect x="564" y="218" width="193" height="26"><animate attributeName="width" values="0;193;193;0;0" keyTimes="0;0.0267;0.0933;0.1110;1" dur="12.0s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="r1"><rect x="564" y="218" width="0" height="26"><animate attributeName="width" values="0;0;150;150;0;0" keyTimes="0;0.3333;0.3700;0.5167;0.6667;1" dur="12.0s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="r2"><rect x="564" y="218" width="0" height="26"><animate attributeName="width" values="0;0;171;171;0;0" keyTimes="0;0.6667;0.7033;0.8500;1.0000;1" dur="12.0s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_0"><rect x="40" y="42" width="0" height="15"><animate attributeName="width" values="0;0;85;85;0;0" keyTimes="0;0.00060;0.00561;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_1"><rect x="40" y="56" width="0" height="15"><animate attributeName="width" values="0;0;279;279;0;0" keyTimes="0;0.00561;0.02524;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_3"><rect x="40" y="82" width="0" height="15"><animate attributeName="width" values="0;0;150;150;0;0" keyTimes="0;0.02962;0.03991;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_4"><rect x="40" y="96" width="0" height="15"><animate attributeName="width" values="0;0;227;227;0;0" keyTimes="0;0.03991;0.05580;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_5"><rect x="40" y="110" width="0" height="15"><animate attributeName="width" values="0;0;176;176;0;0" keyTimes="0;0.05580;0.06796;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_6"><rect x="40" y="123" width="0" height="15"><animate attributeName="width" values="0;0;240;240;0;0" keyTimes="0;0.06796;0.08478;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_7"><rect x="40" y="136" width="0" height="15"><animate attributeName="width" values="0;0;221;221;0;0" keyTimes="0;0.08478;0.10021;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_9"><rect x="40" y="164" width="0" height="15"><animate attributeName="width" values="0;0;221;221;0;0" keyTimes="0;0.10459;0.12002;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_10"><rect x="40" y="177" width="0" height="15"><animate attributeName="width" values="0;0;279;279;0;0" keyTimes="0;0.12002;0.13965;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_11"><rect x="40" y="190" width="0" height="15"><animate attributeName="width" values="0;0;279;279;0;0" keyTimes="0;0.13965;0.15928;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_12"><rect x="40" y="204" width="0" height="15"><animate attributeName="width" values="0;0;260;260;0;0" keyTimes="0;0.15928;0.17752;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_14"><rect x="40" y="231" width="0" height="15"><animate attributeName="width" values="0;0;227;227;0;0" keyTimes="0;0.18190;0.19779;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_15"><rect x="40" y="244" width="0" height="15"><animate attributeName="width" values="0;0;131;131;0;0" keyTimes="0;0.19779;0.20667;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_16"><rect x="40" y="258" width="0" height="15"><animate attributeName="width" values="0;0;189;189;0;0" keyTimes="0;0.20667;0.21976;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_17"><rect x="40" y="272" width="0" height="15"><animate attributeName="width" values="0;0;266;266;0;0" keyTimes="0;0.21976;0.23846;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl0_18"><rect x="40" y="285" width="0" height="15"><animate attributeName="width" values="0;0;214;214;0;0" keyTimes="0;0.23846;0.25342;0.32938;0.35860;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_0"><rect x="40" y="42" width="0" height="15"><animate attributeName="width" values="0;0;85;85;0;0" keyTimes="0;0.35860;0.36420;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_1"><rect x="40" y="56" width="0" height="15"><animate attributeName="width" values="0;0;143;143;0;0" keyTimes="0;0.36420;0.37402;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_3"><rect x="40" y="82" width="0" height="15"><animate attributeName="width" values="0;0;182;182;0;0" keyTimes="0;0.37840;0.39102;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_4"><rect x="40" y="96" width="0" height="15"><animate attributeName="width" values="0;0;214;214;0;0" keyTimes="0;0.39102;0.40598;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_5"><rect x="40" y="110" width="0" height="15"><animate attributeName="width" values="0;0;176;176;0;0" keyTimes="0;0.40598;0.41814;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_6"><rect x="40" y="123" width="0" height="15"><animate attributeName="width" values="0;0;240;240;0;0" keyTimes="0;0.41814;0.43497;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_7"><rect x="40" y="136" width="0" height="15"><animate attributeName="width" values="0;0;240;240;0;0" keyTimes="0;0.43497;0.45179;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_9"><rect x="40" y="164" width="0" height="15"><animate attributeName="width" values="0;0;169;169;0;0" keyTimes="0;0.45618;0.46786;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_10"><rect x="40" y="177" width="0" height="15"><animate attributeName="width" values="0;0;182;182;0;0" keyTimes="0;0.46786;0.48048;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_11"><rect x="40" y="190" width="0" height="15"><animate attributeName="width" values="0;0;208;208;0;0" keyTimes="0;0.48048;0.49497;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_13"><rect x="40" y="218" width="0" height="15"><animate attributeName="width" values="0;0;131;131;0;0" keyTimes="0;0.49936;0.50824;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_14"><rect x="40" y="231" width="0" height="15"><animate attributeName="width" values="0;0;279;279;0;0" keyTimes="0;0.50824;0.52787;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_15"><rect x="40" y="244" width="0" height="15"><animate attributeName="width" values="0;0;163;163;0;0" keyTimes="0;0.52787;0.53909;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_16"><rect x="40" y="258" width="0" height="15"><animate attributeName="width" values="0;0;169;169;0;0" keyTimes="0;0.53909;0.55078;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_17"><rect x="40" y="272" width="0" height="15"><animate attributeName="width" values="0;0;247;247;0;0" keyTimes="0;0.55078;0.56807;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_18"><rect x="40" y="285" width="0" height="15"><animate attributeName="width" values="0;0;156;156;0;0" keyTimes="0;0.56807;0.57882;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl1_19"><rect x="40" y="298" width="0" height="15"><animate attributeName="width" values="0;0;124;124;0;0" keyTimes="0;0.57882;0.58724;0.66320;0.69242;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_0"><rect x="40" y="42" width="0" height="15"><animate attributeName="width" values="0;0;66;66;0;0" keyTimes="0;0.69242;0.69680;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_1"><rect x="40" y="56" width="0" height="15"><animate attributeName="width" values="0;0;124;124;0;0" keyTimes="0;0.69680;0.70521;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_2"><rect x="40" y="69" width="0" height="15"><animate attributeName="width" values="0;0;195;195;0;0" keyTimes="0;0.70521;0.71877;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_4"><rect x="40" y="96" width="0" height="15"><animate attributeName="width" values="0;0;143;143;0;0" keyTimes="0;0.72315;0.73297;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_5"><rect x="40" y="110" width="0" height="15"><animate attributeName="width" values="0;0;92;92;0;0" keyTimes="0;0.73297;0.73904;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_6"><rect x="40" y="123" width="0" height="15"><animate attributeName="width" values="0;0;272;272;0;0" keyTimes="0;0.73904;0.75821;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_7"><rect x="40" y="136" width="0" height="15"><animate attributeName="width" values="0;0;247;247;0;0" keyTimes="0;0.75821;0.77551;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_8"><rect x="40" y="150" width="0" height="15"><animate attributeName="width" values="0;0;176;176;0;0" keyTimes="0;0.77551;0.78766;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_10"><rect x="40" y="177" width="0" height="15"><animate attributeName="width" values="0;0;137;137;0;0" keyTimes="0;0.79204;0.80139;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_11"><rect x="40" y="190" width="0" height="15"><animate attributeName="width" values="0;0;105;105;0;0" keyTimes="0;0.80139;0.80840;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_12"><rect x="40" y="204" width="0" height="15"><animate attributeName="width" values="0;0;227;227;0;0" keyTimes="0;0.80840;0.82430;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_13"><rect x="40" y="218" width="0" height="15"><animate attributeName="width" values="0;0;292;292;0;0" keyTimes="0;0.82430;0.84486;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_14"><rect x="40" y="231" width="0" height="15"><animate attributeName="width" values="0;0;92;92;0;0" keyTimes="0;0.84486;0.85094;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_15"><rect x="40" y="244" width="0" height="15"><animate attributeName="width" values="0;0;208;208;0;0" keyTimes="0;0.85094;0.86543;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_16"><rect x="40" y="258" width="0" height="15"><animate attributeName="width" values="0;0;118;118;0;0" keyTimes="0;0.86543;0.87338;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <clipPath id="cl2_18"><rect x="40" y="285" width="0" height="15"><animate attributeName="width" values="0;0;163;163;0;0" keyTimes="0;0.87776;0.88898;0.96494;0.99416;1" dur="34.2s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
   <style>
-    .code{font-family:'JetBrains Mono','Fira Code',Consolas,monospace;font-size:15px}
-    .kw{fill:#A970D8}.fn{fill:#4F9EE8}.str{fill:#46A84E}.var{fill:#e6edf3}.cm{fill:#6e7681}
+    .code{font-family:'JetBrains Mono','Fira Code',Consolas,monospace;font-size:11px}
+    .kw{fill:#A970D8}.fn{fill:#4F9EE8}.str{fill:#46A84E}.var{fill:#9fb0c3}.cm{fill:#5b6672}
     .name{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:52px;font-weight:800;fill:#e6edf3}
     .role{font-family:'JetBrains Mono','Fira Code',Consolas,monospace;font-size:18px;font-weight:600;fill:#58D6B0}
     .sub{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;fill:#8b949e}
-    .scroll{animation:scr 16s linear infinite}@keyframes scr{from{transform:translateY(0)}to{transform:translateY(-168px)}}
     .cur{animation:bl 1s steps(1) infinite}@keyframes bl{0%,50%{opacity:1}50.01%,100%{opacity:0}}
   </style>
 </defs>
 
 <g clip-path="url(#round)">
   <rect x="1" y="1" width="1198" height="328" fill="url(#bg)"/>
-
-  <g opacity="0.5"><g class="scroll">
-    <use href="#cb" y="56"/>
-    <use href="#cb" y="224"/>
-  </g></g>
-
+  <g opacity="0.7">
+    <g clip-path="url(#cl0_0)"><text x="40" y="52.0" class="code"><tspan class="kw">import</tspan><tspan class="var"> torch</tspan></text></g>
+    <g clip-path="url(#cl0_1)"><text x="40" y="65.5" class="code"><tspan class="kw">from</tspan><tspan class="var"> rag </tspan><tspan class="kw">import</tspan><tspan class="var"> Retriever, Reranker, Index</tspan></text></g>
+    <g clip-path="url(#cl0_3)"><text x="40" y="92.5" class="code"><tspan class="kw">class</tspan><tspan class="var"> HybridRetriever:</tspan></text></g>
+    <g clip-path="url(#cl0_4)"><text x="40" y="106.0" class="code"><tspan class="var">    </tspan><tspan class="kw">def</tspan><tspan class="var"> __init__(self, alpha=0.7):</tspan></text></g>
+    <g clip-path="url(#cl0_5)"><text x="40" y="119.5" class="code"><tspan class="var">        self.alpha = alpha</tspan></text></g>
+    <g clip-path="url(#cl0_6)"><text x="40" y="133.0" class="code"><tspan class="var">        self.dense = Index(</tspan><tspan class="str">&quot;minilm&quot;</tspan><tspan class="var">)</tspan></text></g>
+    <g clip-path="url(#cl0_7)"><text x="40" y="146.5" class="code"><tspan class="var">        self.bm25 = Index(</tspan><tspan class="str">&quot;bm25&quot;</tspan><tspan class="var">)</tspan></text></g>
+    <g clip-path="url(#cl0_9)"><text x="40" y="173.5" class="code"><tspan class="var">    </tspan><tspan class="kw">def</tspan><tspan class="var"> search(self, query, k=8):</tspan></text></g>
+    <g clip-path="url(#cl0_10)"><text x="40" y="187.0" class="code"><tspan class="var">        dense = self.dense.query(query, k)</tspan></text></g>
+    <g clip-path="url(#cl0_11)"><text x="40" y="200.5" class="code"><tspan class="var">        sparse = self.bm25.query(query, k)</tspan></text></g>
+    <g clip-path="url(#cl0_12)"><text x="40" y="214.0" class="code"><tspan class="var">        </tspan><tspan class="kw">return</tspan><tspan class="var"> self.fuse(dense, sparse)</tspan></text></g>
+    <g clip-path="url(#cl0_14)"><text x="40" y="241.0" class="code"><tspan class="var">    </tspan><tspan class="kw">def</tspan><tspan class="var"> fuse(self, dense, sparse):</tspan></text></g>
+    <g clip-path="url(#cl0_15)"><text x="40" y="254.5" class="code"><tspan class="var">        scores = {}</tspan></text></g>
+    <g clip-path="url(#cl0_16)"><text x="40" y="268.0" class="code"><tspan class="var">        </tspan><tspan class="kw">for</tspan><tspan class="var"> doc, w </tspan><tspan class="kw">in</tspan><tspan class="var"> dense:</tspan></text></g>
+    <g clip-path="url(#cl0_17)"><text x="40" y="281.5" class="code"><tspan class="var">            scores[doc] = self.alpha * w</tspan></text></g>
+    <g clip-path="url(#cl0_18)"><text x="40" y="295.0" class="code"><tspan class="var">        </tspan><tspan class="kw">return</tspan><tspan class="var"> rank(scores, k=8)</tspan></text></g>
+    <g clip-path="url(#cl1_0)"><text x="40" y="52.0" class="code"><tspan class="kw">import</tspan><tspan class="var"> torch</tspan></text></g>
+    <g clip-path="url(#cl1_1)"><text x="40" y="65.5" class="code"><tspan class="kw">import</tspan><tspan class="var"> torch.nn </tspan><tspan class="kw">as</tspan><tspan class="var"> nn</tspan></text></g>
+    <g clip-path="url(#cl1_3)"><text x="40" y="92.5" class="code"><tspan class="kw">class</tspan><tspan class="var"> RiskModel(nn.Module):</tspan></text></g>
+    <g clip-path="url(#cl1_4)"><text x="40" y="106.0" class="code"><tspan class="var">    </tspan><tspan class="kw">def</tspan><tspan class="var"> __init__(self, dim=128):</tspan></text></g>
+    <g clip-path="url(#cl1_5)"><text x="40" y="119.5" class="code"><tspan class="var">        </tspan><tspan class="kw">super</tspan><tspan class="var">().__init__()</tspan></text></g>
+    <g clip-path="url(#cl1_6)"><text x="40" y="133.0" class="code"><tspan class="var">        self.lstm = nn.LSTM(dim, 64)</tspan></text></g>
+    <g clip-path="url(#cl1_7)"><text x="40" y="146.5" class="code"><tspan class="var">        self.head = nn.Linear(64, 1)</tspan></text></g>
+    <g clip-path="url(#cl1_9)"><text x="40" y="173.5" class="code"><tspan class="var">    </tspan><tspan class="kw">def</tspan><tspan class="var"> forward(self, x):</tspan></text></g>
+    <g clip-path="url(#cl1_10)"><text x="40" y="187.0" class="code"><tspan class="var">        h, _ = self.lstm(x)</tspan></text></g>
+    <g clip-path="url(#cl1_11)"><text x="40" y="200.5" class="code"><tspan class="var">        </tspan><tspan class="kw">return</tspan><tspan class="var"> self.head(h[-1])</tspan></text></g>
+    <g clip-path="url(#cl1_13)"><text x="40" y="227.5" class="code"><tspan class="var">model = RiskModel()</tspan></text></g>
+    <g clip-path="url(#cl1_14)"><text x="40" y="241.0" class="code"><tspan class="var">opt = torch.optim.Adam(model.parameters())</tspan></text></g>
+    <g clip-path="url(#cl1_15)"><text x="40" y="254.5" class="code"><tspan class="kw">for</tspan><tspan class="var"> epoch </tspan><tspan class="kw">in</tspan><tspan class="var"> </tspan><tspan class="kw">range</tspan><tspan class="var">(100):</tspan></text></g>
+    <g clip-path="url(#cl1_16)"><text x="40" y="268.0" class="code"><tspan class="var">    </tspan><tspan class="kw">for</tspan><tspan class="var"> xb, yb </tspan><tspan class="kw">in</tspan><tspan class="var"> loader:</tspan></text></g>
+    <g clip-path="url(#cl1_17)"><text x="40" y="281.5" class="code"><tspan class="var">        loss = loss_fn(model(xb), yb)</tspan></text></g>
+    <g clip-path="url(#cl1_18)"><text x="40" y="295.0" class="code"><tspan class="var">        loss.backward()</tspan></text></g>
+    <g clip-path="url(#cl1_19)"><text x="40" y="308.5" class="code"><tspan class="var">        opt.step()</tspan></text></g>
+    <g clip-path="url(#cl2_0)"><text x="40" y="52.0" class="code"><tspan class="kw">import</tspan><tspan class="var"> re</tspan></text></g>
+    <g clip-path="url(#cl2_1)"><text x="40" y="65.5" class="code"><tspan class="kw">import</tspan><tspan class="var"> pytesseract</tspan></text></g>
+    <g clip-path="url(#cl2_2)"><text x="40" y="79.0" class="code"><tspan class="kw">from</tspan><tspan class="var"> pdf </tspan><tspan class="kw">import</tspan><tspan class="var"> extract_pages</tspan></text></g>
+    <g clip-path="url(#cl2_4)"><text x="40" y="106.0" class="code"><tspan class="kw">def</tspan><tspan class="var"> parse(statement):</tspan></text></g>
+    <g clip-path="url(#cl2_5)"><text x="40" y="119.5" class="code"><tspan class="var">    text = </tspan><tspan class="str">&quot;&quot;</tspan></text></g>
+    <g clip-path="url(#cl2_6)"><text x="40" y="133.0" class="code"><tspan class="var">    </tspan><tspan class="kw">for</tspan><tspan class="var"> page </tspan><tspan class="kw">in</tspan><tspan class="var"> extract_pages(statement):</tspan></text></g>
+    <g clip-path="url(#cl2_7)"><text x="40" y="146.5" class="code"><tspan class="var">        text += pytesseract.ocr(page)</tspan></text></g>
+    <g clip-path="url(#cl2_8)"><text x="40" y="160.0" class="code"><tspan class="var">    </tspan><tspan class="kw">return</tspan><tspan class="var"> structure(text)</tspan></text></g>
+    <g clip-path="url(#cl2_10)"><text x="40" y="187.0" class="code"><tspan class="kw">def</tspan><tspan class="var"> structure(text):</tspan></text></g>
+    <g clip-path="url(#cl2_11)"><text x="40" y="200.5" class="code"><tspan class="var">    fields = {}</tspan></text></g>
+    <g clip-path="url(#cl2_12)"><text x="40" y="214.0" class="code"><tspan class="var">    </tspan><tspan class="kw">for</tspan><tspan class="var"> line </tspan><tspan class="kw">in</tspan><tspan class="var"> text.splitlines():</tspan></text></g>
+    <g clip-path="url(#cl2_13)"><text x="40" y="227.5" class="code"><tspan class="var">        m = re.match(r</tspan><tspan class="str">&quot;(\w+):\s*(.+)&quot;</tspan><tspan class="var">, line)</tspan></text></g>
+    <g clip-path="url(#cl2_14)"><text x="40" y="241.0" class="code"><tspan class="var">        </tspan><tspan class="kw">if</tspan><tspan class="var"> m:</tspan></text></g>
+    <g clip-path="url(#cl2_15)"><text x="40" y="254.5" class="code"><tspan class="var">            fields[m[1]] = m[2]</tspan></text></g>
+    <g clip-path="url(#cl2_16)"><text x="40" y="268.0" class="code"><tspan class="var">    </tspan><tspan class="kw">return</tspan><tspan class="var"> fields</tspan></text></g>
+    <g clip-path="url(#cl2_18)"><text x="40" y="295.0" class="code"><tspan class="kw">print</tspan><tspan class="var">(parse(</tspan><tspan class="str">&quot;hdfc.pdf&quot;</tspan><tspan class="var">))</tspan></text></g>
+  </g>
   <rect x="1" y="37" width="1198" height="292" fill="url(#focus)"/>
-
   <rect x="1" y="1" width="1198" height="36" fill="#11161f"/>
   <line x1="1" y1="37" x2="1199" y2="37" stroke="#233041"/>
-  <circle cx="26" cy="19" r="5.5" fill="#ff5f56"/>
-  <circle cx="46" cy="19" r="5.5" fill="#ffbd2e"/>
-  <circle cx="66" cy="19" r="5.5" fill="#27c93f"/>
+  <circle cx="26" cy="19" r="5.5" fill="#ff5f56"/><circle cx="46" cy="19" r="5.5" fill="#ffbd2e"/><circle cx="66" cy="19" r="5.5" fill="#27c93f"/>
   <text x="90" y="23" class="code" font-size="13" fill="#8b949e">aditya-ganjoo.py</text>
   <text x="1176" y="23" class="code" font-size="13" fill="#6e7681" text-anchor="end">main</text>
-
   <text x="600" y="168" class="name" text-anchor="middle">Aditya Ganjoo</text>
   <rect x="446" y="182" width="308" height="4" rx="2" fill="url(#ul)"/>
-
   <text x="476" y="236" class="role">Aspiring</text>
-  <g clip-path="url(#t1)"><text x="564" y="236" class="role">AI / ML Engineer</text><rect class="cur" x="737" y="221" width="9" height="19" fill="#58D6B0"/></g>
-  <g clip-path="url(#t2)"><text x="564" y="236" class="role">Data Analyst</text><rect class="cur" x="694" y="221" width="9" height="19" fill="#58D6B0"/></g>
-  <g clip-path="url(#t3)"><text x="564" y="236" class="role">Data Scientist</text><rect class="cur" x="715" y="221" width="9" height="19" fill="#58D6B0"/></g>
-
+  <g clip-path="url(#r0)"><text x="564" y="236" class="role">AI / ML Engineer</text><rect class="cur" x="736" y="221" width="9" height="19" fill="#58D6B0"/></g>
+  <g clip-path="url(#r1)"><text x="564" y="236" class="role">Data Analyst</text><rect class="cur" x="693" y="221" width="9" height="19" fill="#58D6B0"/></g>
+  <g clip-path="url(#r2)"><text x="564" y="236" class="role">Data Scientist</text><rect class="cur" x="715" y="221" width="9" height="19" fill="#58D6B0"/></g>
   <text x="600" y="266" class="sub" text-anchor="middle">Open to Full-time &amp; Internships · 2026</text>
 </g>
 <rect x="1" y="1" width="1198" height="328" rx="16" fill="none" stroke="#233041"/>
