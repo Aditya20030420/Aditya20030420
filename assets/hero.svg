@@ -8,20 +8,24 @@
     <stop offset="100%" stop-color="#0b1017" stop-opacity="0"/>
   </radialGradient>
   <clipPath id="round"><rect x="1" y="1" width="1198" height="328" rx="16"/></clipPath>
+  <clipPath id="type"><rect x="305" y="218" width="600" height="26">
+    <animate attributeName="width" values="0;0;600;600;0" keyTimes="0;0.04;0.44;0.9;1" dur="9s" repeatCount="indefinite" calcMode="linear"/>
+  </rect></clipPath>
   <style>
     .code{font-family:'JetBrains Mono','Fira Code',Consolas,monospace;font-size:15px}
     .kw{fill:#A970D8}.fn{fill:#4F9EE8}.str{fill:#46A84E}.var{fill:#e6edf3}.cm{fill:#6e7681}
     .name{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:52px;font-weight:800;fill:#e6edf3}
     .role{font-family:'JetBrains Mono','Fira Code',Consolas,monospace;font-size:18px;font-weight:600;fill:#58D6B0}
     .sub{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;fill:#8b949e}
-    .cur{animation:bl 1.05s steps(1) infinite}@keyframes bl{0%,50%{opacity:1}50.01%,100%{opacity:0}}
+    .cg{animation:cin 1.3s ease-out both}@keyframes cin{from{opacity:0}to{opacity:.5}}
+    .cur{animation:bl 1s steps(1) infinite}@keyframes bl{0%,50%{opacity:1}50.01%,100%{opacity:0}}
   </style>
 </defs>
 
 <g clip-path="url(#round)">
   <rect x="1" y="1" width="1198" height="328" fill="url(#bg)"/>
 
-  <g class="code" opacity="0.5">
+  <g class="code cg" opacity="0.5">
     <text x="40" y="80"><tspan class="kw">import</tspan><tspan class="var"> torch</tspan></text>
     <text x="40" y="104"><tspan class="kw">from</tspan><tspan class="var"> rag </tspan><tspan class="kw">import</tspan><tspan class="var"> Retriever, Reranker</tspan></text>
     <text x="40" y="128"><tspan class="cm"># hybrid retrieval · document intelligence · financial ML</tspan></text>
@@ -49,8 +53,12 @@
   <text x="600" y="168" class="name" text-anchor="middle">Aditya Ganjoo</text>
   <rect x="446" y="182" width="308" height="4" rx="2" fill="url(#ul)"/>
 
-  <text x="600" y="236" class="role" text-anchor="middle">Aspiring AI / ML Engineer / Data Analyst / Data Scientist</text>
-  <rect class="cur" x="896" y="221" width="9" height="19" fill="#58D6B0"/>
+  <g clip-path="url(#type)">
+    <text x="305" y="236" class="role">Aspiring AI / ML Engineer / Data Analyst / Data Scientist</text>
+  </g>
+  <rect class="cur" x="896" y="221" width="9" height="19" fill="#58D6B0">
+    <animate attributeName="x" values="305;305;896;896;305" keyTimes="0;0.04;0.44;0.9;1" dur="9s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
 
   <text x="600" y="266" class="sub" text-anchor="middle">Open to Full-time &amp; Internships · 2026</text>
 </g>
