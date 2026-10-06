@@ -14,13 +14,27 @@
     <animate attributeName="width" values="0;0;148;148;0;0" keyTimes="0;0.333;0.413;0.613;0.667;1" dur="12s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
   <clipPath id="t3"><rect x="564" y="218" width="0" height="26">
     <animate attributeName="width" values="0;0;168;168;0" keyTimes="0;0.667;0.747;0.947;1" dur="12s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <g id="cb" class="code">
+    <text x="40" y="20"><tspan class="kw">import</tspan><tspan class="var"> torch</tspan></text>
+    <text x="40" y="44"><tspan class="kw">from</tspan><tspan class="var"> rag </tspan><tspan class="kw">import</tspan><tspan class="var"> Retriever, Reranker</tspan></text>
+    <text x="40" y="68"><tspan class="cm"># hybrid retrieval · document intelligence · financial ML</tspan></text>
+    <text x="40" y="92"><tspan class="kw">class</tspan><tspan class="fn"> Engineer</tspan><tspan class="var">(AI, ML):</tspan></text>
+    <text x="40" y="116"><tspan class="var">    focus = [</tspan><tspan class="str">"RAG"</tspan><tspan class="var">, </tspan><tspan class="str">"DocAI"</tspan><tspan class="var">, </tspan><tspan class="str">"FinML"</tspan><tspan class="var">]</tspan></text>
+    <text x="40" y="140"><tspan class="kw">    def</tspan><tspan class="fn"> ship</tspan><tspan class="var">(self): </tspan><tspan class="kw">return</tspan><tspan class="var"> production</tspan></text>
+    <text x="40" y="164"><tspan class="var">    status = </tspan><tspan class="str">"open to roles"</tspan></text>
+    <text x="760" y="20"><tspan class="kw">async def</tspan><tspan class="fn"> build</tspan><tspan class="var">(idea):</tspan></text>
+    <text x="760" y="44"><tspan class="var">    plan = </tspan><tspan class="kw">await</tspan><tspan class="var"> design(idea)</tspan></text>
+    <text x="760" y="68"><tspan class="kw">    return</tspan><tspan class="var"> deploy(plan)</tspan></text>
+    <text x="760" y="116"><tspan class="cm"># 2026 · B.Tech CS (Data Science)</tspan></text>
+    <text x="760" y="140"><tspan class="cm"># DJ Sanghvi, Mumbai</tspan></text>
+  </g>
   <style>
     .code{font-family:'JetBrains Mono','Fira Code',Consolas,monospace;font-size:15px}
     .kw{fill:#A970D8}.fn{fill:#4F9EE8}.str{fill:#46A84E}.var{fill:#e6edf3}.cm{fill:#6e7681}
     .name{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:52px;font-weight:800;fill:#e6edf3}
     .role{font-family:'JetBrains Mono','Fira Code',Consolas,monospace;font-size:18px;font-weight:600;fill:#58D6B0}
     .sub{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;fill:#8b949e}
-    .cg{animation:cin 1.3s ease-out both}@keyframes cin{from{opacity:0}to{opacity:.5}}
+    .scroll{animation:scr 16s linear infinite}@keyframes scr{from{transform:translateY(0)}to{transform:translateY(-168px)}}
     .cur{animation:bl 1s steps(1) infinite}@keyframes bl{0%,50%{opacity:1}50.01%,100%{opacity:0}}
   </style>
 </defs>
@@ -28,20 +42,10 @@
 <g clip-path="url(#round)">
   <rect x="1" y="1" width="1198" height="328" fill="url(#bg)"/>
 
-  <g class="code cg" opacity="0.5">
-    <text x="40" y="80"><tspan class="kw">import</tspan><tspan class="var"> torch</tspan></text>
-    <text x="40" y="104"><tspan class="kw">from</tspan><tspan class="var"> rag </tspan><tspan class="kw">import</tspan><tspan class="var"> Retriever, Reranker</tspan></text>
-    <text x="40" y="128"><tspan class="cm"># hybrid retrieval · document intelligence · financial ML</tspan></text>
-    <text x="40" y="152"><tspan class="kw">class</tspan><tspan class="fn"> Engineer</tspan><tspan class="var">(AI, ML):</tspan></text>
-    <text x="40" y="176"><tspan class="var">    focus = [</tspan><tspan class="str">"RAG"</tspan><tspan class="var">, </tspan><tspan class="str">"DocAI"</tspan><tspan class="var">, </tspan><tspan class="str">"FinML"</tspan><tspan class="var">]</tspan></text>
-    <text x="40" y="200"><tspan class="kw">    def</tspan><tspan class="fn"> ship</tspan><tspan class="var">(self): </tspan><tspan class="kw">return</tspan><tspan class="var"> production</tspan></text>
-    <text x="40" y="224"><tspan class="var">    status = </tspan><tspan class="str">"open to roles"</tspan></text>
-    <text x="760" y="80"><tspan class="kw">async def</tspan><tspan class="fn"> build</tspan><tspan class="var">(idea):</tspan></text>
-    <text x="760" y="104"><tspan class="var">    plan = </tspan><tspan class="kw">await</tspan><tspan class="var"> design(idea)</tspan></text>
-    <text x="760" y="128"><tspan class="kw">    return</tspan><tspan class="var"> deploy(plan)</tspan></text>
-    <text x="760" y="176"><tspan class="cm"># 2026 · B.Tech CS (Data Science)</tspan></text>
-    <text x="760" y="200"><tspan class="cm"># DJ Sanghvi, Mumbai</tspan></text>
-  </g>
+  <g opacity="0.5"><g class="scroll">
+    <use href="#cb" y="56"/>
+    <use href="#cb" y="224"/>
+  </g></g>
 
   <rect x="1" y="37" width="1198" height="292" fill="url(#focus)"/>
 
