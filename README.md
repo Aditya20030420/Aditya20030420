@@ -95,7 +95,7 @@
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4ca.svg" width="20" height="20" alt="bar chart" align="top"> GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/stats-snapshot.svg?v=1" alt="Aditya Ganjoo's GitHub snapshot — 333 contributions in the last year, 8 public repositories, 4 featured projects, 7 languages" width="100%"></a>
+  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/stats-snapshot.svg?v=1" alt="Aditya Ganjoo's GitHub snapshot — 341 commits, 8 public repositories, 4 featured projects, 7 languages" width="100%"></a>
 </p>
 
 <p align="center">

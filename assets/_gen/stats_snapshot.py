@@ -10,11 +10,14 @@ USER = "Aditya20030420"
 OUT = os.path.join(os.path.dirname(__file__), "..", "stats-snapshot.svg")
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "readme-gen"})
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "readme-gen", "Accept": "application/vnd.github+json"})
     with urllib.request.urlopen(req, timeout=30) as r:
         return json.load(r)
 
-contrib = fetch(f"https://github-contributions-api.jogruber.de/v4/{USER}?y=last")["total"]["lastYear"]
+# "Commits" (not "Contributions") so this never looks like it should equal the
+# streak card's total-contributions figure.
+commits = fetch(f"https://api.github.com/search/commits?q=author:{USER}&per_page=1")["total_count"]
 repos = fetch(f"https://api.github.com/users/{USER}")["public_repos"]
 
 # curated constants (rarely change)
@@ -22,7 +25,7 @@ FEATURED = 4      # projects showcased in Featured Projects
 LANGS = 7         # distinct languages in the top-langs card
 
 tiles = [
-    (str(contrib), "Contributions · 1yr"),
+    (str(commits), "Commits"),
     (str(repos),   "Public repos"),
     (str(FEATURED),"Featured projects"),
     (str(LANGS),   "Languages"),
@@ -48,4 +51,4 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{
 
 with open(OUT, "w", encoding="utf-8") as f:
     f.write(svg)
-print(f"wrote {os.path.abspath(OUT)}  (contrib {contrib}, repos {repos})")
+print(f"wrote {os.path.abspath(OUT)}  (commits {commits}, repos {repos})")
