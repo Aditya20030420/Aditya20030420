@@ -95,11 +95,11 @@
 ### <img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/icons/1f4ca.svg" width="20" height="20" alt="bar chart" align="top"> GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/stats-snapshot.svg?v=1" alt="Aditya Ganjoo's GitHub snapshot — 341 commits, 8 public repositories, 4 featured projects, 7 languages" width="100%"></a>
+  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/stats-snapshot.svg?v=1" alt="Aditya Ganjoo's GitHub snapshot — commits, public repositories, featured projects and languages" width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aditya20030420"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya20030420&border_radius=12&background=0b1017&border=233041&stroke=233041&ring=4F9EE8&fire=4F9EE8&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=4F9EE8&sideLabels=8b949e&dates=8b949e" height="170" alt="Aditya Ganjoo's contribution streak"></a>
+  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/streak-card.svg?v=1" alt="Aditya Ganjoo's contribution streak — total contributions, current streak and longest streak" width="100%"></a>
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/activity-graph.svg?v=1" alt="Aditya Ganjoo's contribution activity over the last year — 331 contributions" width="100%"></a>
+  <a href="https://github.com/Aditya20030420"><img src="https://raw.githubusercontent.com/Aditya20030420/Aditya20030420/main/assets/activity-graph.svg?v=1" alt="Aditya Ganjoo's contribution activity over the last year" width="100%"></a>
 </p>
 
 <p align="center">

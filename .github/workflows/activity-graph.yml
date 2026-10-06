@@ -18,10 +18,11 @@ jobs:
           python-version: "3.12"
       - run: python assets/_gen/activity_graph.py
       - run: python assets/_gen/stats_snapshot.py
+      - run: python assets/_gen/streak_card.py
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/activity-graph.svg assets/stats-snapshot.svg
+          git add assets/activity-graph.svg assets/stats-snapshot.svg assets/streak-card.svg
           git diff --staged --quiet || git commit -m "chore: refresh contribution activity graph"
           git push
